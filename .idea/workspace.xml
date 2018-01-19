@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="" />
+    <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/reverseinteger/MyReverseInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/twosum/AbnormalTwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/twosum/ExcellentTwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/twosum/MyTwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/reverseinteger/TestReverseInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/twosum/TestTwoSum.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/reverseinteger/TestReverseInteger.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/reverseinteger/TestReverseInteger.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +20,40 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="TestPalindromeNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/palindromenumber/TestPalindromeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbnormalPalindromeNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ExcellentPalindromeNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,6 +90,11 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/reverseinteger/ExcellentReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/reverseinteger/MyReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/reverseinteger/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/reverseinteger/TestReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/MyPalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/palindromenumber/TestPalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java" />
       </list>
     </option>
   </component>
@@ -59,10 +105,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="170" />
-    <option name="y" value="245" />
-    <option name="width" value="996" />
-    <option name="height" value="748" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -123,6 +169,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="palindromenumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="reverseinteger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -162,6 +217,24 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="palindromenumber" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="reverseinteger" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="twosum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -180,6 +253,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eclipse/scs" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -203,7 +277,107 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestReverseInteger.testMyReverseInteger">
+  <component name="RunManager" selected="JUnit.TestPalindromeNumber.testAbnormalPalindromeNumber">
+    <configuration name="TestPalindromeNumber.testAbnormalPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy.palindromenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.palindromenumber" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.palindromenumber.TestPalindromeNumber" />
+      <option name="METHOD_NAME" value="testAbnormalPalindromeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestPalindromeNumber.testExcellentPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy.palindromenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.palindromenumber" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.palindromenumber.TestPalindromeNumber" />
+      <option name="METHOD_NAME" value="testExcellentPalindromeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestPalindromeNumber.testMyPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy.palindromenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.palindromenumber" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.palindromenumber.TestPalindromeNumber" />
+      <option name="METHOD_NAME" value="testMyPalindromeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestReverseInteger.testAbnormalReverseInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy.reverseinteger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.reverseinteger" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.reverseinteger.TestReverseInteger" />
+      <option name="METHOD_NAME" value="testAbnormalReverseInteger" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="TestReverseInteger.testMyReverseInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -217,31 +391,6 @@
       <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.reverseinteger" />
       <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.reverseinteger.TestReverseInteger" />
       <option name="METHOD_NAME" value="testMyReverseInteger" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TestTwoSum.testMyTwoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy.twosum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.twosum" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.twosum.TestTwoSum" />
-      <option name="METHOD_NAME" value="testMyTwoSum" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -335,14 +484,20 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestTwoSum.testMyTwoSum" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testMyReverseInteger" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testMyReverseInteger" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testAbnormalReverseInteger" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testMyPalindromeNumber" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testExcellentPalindromeNumber" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testAbnormalPalindromeNumber" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testMyReverseInteger" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestTwoSum.testMyTwoSum" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testAbnormalPalindromeNumber" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testExcellentPalindromeNumber" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testMyPalindromeNumber" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testAbnormalReverseInteger" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testMyReverseInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -356,47 +511,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516330924319</updated>
-      <workItem from="1516330930681" duration="12257000" />
+      <workItem from="1516330930681" duration="16541000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 27m 35s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testAbnormalPalindromeNumber - 2018.01.19 at 16h 51m 13s.xml">
+      <configuration name="TestPalindromeNumber.testAbnormalPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 29m 36s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testAbnormalPalindromeNumber - 2018.01.19 at 16h 51m 30s.xml">
+      <configuration name="TestPalindromeNumber.testAbnormalPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 30m 05s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testAbnormalPalindromeNumber - 2018.01.19 at 16h 53m 06s.xml">
+      <configuration name="TestPalindromeNumber.testAbnormalPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 30m 28s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testExcellentPalindromeNumber - 2018.01.19 at 16h 47m 24s.xml">
+      <configuration name="TestPalindromeNumber.testExcellentPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 30m 37s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testExcellentPalindromeNumber - 2018.01.19 at 16h 50m 26s.xml">
+      <configuration name="TestPalindromeNumber.testExcellentPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 30m 50s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testExcellentPalindromeNumber - 2018.01.19 at 16h 50m 55s.xml">
+      <configuration name="TestPalindromeNumber.testExcellentPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 30m 56s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testExcellentPalindromeNumber - 2018.01.19 at 16h 51m 22s.xml">
+      <configuration name="TestPalindromeNumber.testExcellentPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 31m 07s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testMyPalindromeNumber - 2018.01.19 at 15h 35m 27s.xml">
+      <configuration name="TestPalindromeNumber.testMyPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 31m 20s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testMyPalindromeNumber - 2018.01.19 at 15h 35m 33s.xml">
+      <configuration name="TestPalindromeNumber.testMyPalindromeNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseInteger_testMyReverseInteger - 2018.01.19 at 14h 32m 16s.xml">
-      <configuration name="TestReverseInteger.testMyReverseInteger" configurationId="JUnit" />
+    <history-entry file="TestPalindromeNumber_testMyPalindromeNumber - 2018.01.19 at 15h 35m 40s.xml">
+      <configuration name="TestPalindromeNumber.testMyPalindromeNumber" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12257000" />
+    <option name="totallyTimeSpent" value="16541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -411,7 +567,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24886535" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -435,7 +591,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -496,7 +666,7 @@
         <state relative-caret-position="216">
           <caret line="12" column="64" lean-forward="false" selection-start-line="12" selection-start-column="64" selection-end-line="12" selection-end-column="64" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -546,8 +716,8 @@
         <state relative-caret-position="91">
           <caret line="5443" column="26" lean-forward="false" selection-start-line="5443" selection-start-column="26" selection-end-line="5443" selection-end-column="26" />
           <folding>
-            <element signature="e#191162#191163#0" expanded="true" />
-            <element signature="e#191201#191202#0" expanded="true" />
+            <element signature="e#191162#191163#0" expanded="false" />
+            <element signature="e#191201#191202#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -565,32 +735,8 @@
         <state relative-caret-position="418">
           <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/reverseinteger/TestReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/MyReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/ExcellentReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,14 +751,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/AbnormalReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -621,6 +759,72 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/MyReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/ExcellentReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/AbnormalReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/reverseinteger/TestReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/MyPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/palindromenumber/TestPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
