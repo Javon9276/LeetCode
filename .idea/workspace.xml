@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/AbnormalRomanToInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/AbnormalRomanToInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/romantointeger/TestRomanToInteger.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/romantointeger/TestRomanToInteger.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,12 +18,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ExcellentRomanToInteger.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/ExcellentRomanToInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-              <folding />
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -37,6 +43,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>shu</find>
+      <find>Sys</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -68,9 +75,15 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/MyRomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/romantointeger/TestRomanToInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/MyLongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/ExcellentLongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/longestcommonprefix/TestLongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/romantointeger/TestRomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/AbnormalRomanToInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/AbnormalLongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/README.md" />
       </list>
     </option>
   </component>
@@ -80,11 +93,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="873" />
-    <option name="y" value="187" />
-    <option name="width" value="1051" />
-    <option name="height" value="928" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="245" />
+    <option name="width" value="996" />
+    <option name="height" value="748" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -105,7 +118,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -139,6 +151,15 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="longestcommonprefix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -196,6 +217,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="longestcommonprefix" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -241,23 +271,25 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../eclipse/scs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringTest" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cn.javon.leetcode.easy" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\palindromenumber" />
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\longestcommonprefix" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\romantointeger" />
       <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\reverseinteger" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\twosum" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -272,20 +304,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRomanToInteger.testMyRomanToInteger">
-    <configuration name="TestPalindromeNumber.testAbnormalPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestLongestCommonPrefix.testExcellentLongestCommonPrefix">
+    <configuration name="TestLongestCommonPrefix.testAbnormalLongestCommonPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy.palindromenumber.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy.longestcommonprefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.palindromenumber" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.palindromenumber.TestPalindromeNumber" />
-      <option name="METHOD_NAME" value="testAbnormalPalindromeNumber" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.longestcommonprefix" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.longestcommonprefix.TestLongestCommonPrefix" />
+      <option name="METHOD_NAME" value="testAbnormalLongestCommonPrefix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -298,19 +330,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestPalindromeNumber.testExcellentPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLongestCommonPrefix.testExcellentLongestCommonPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy.palindromenumber.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy.longestcommonprefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.palindromenumber" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.palindromenumber.TestPalindromeNumber" />
-      <option name="METHOD_NAME" value="testExcellentPalindromeNumber" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.longestcommonprefix" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.longestcommonprefix.TestLongestCommonPrefix" />
+      <option name="METHOD_NAME" value="testExcellentLongestCommonPrefix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -323,19 +355,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestPalindromeNumber.testMyPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLongestCommonPrefix.testMyLongestCommonPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy.palindromenumber.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy.longestcommonprefix.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.palindromenumber" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.palindromenumber.TestPalindromeNumber" />
-      <option name="METHOD_NAME" value="testMyPalindromeNumber" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.longestcommonprefix" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.longestcommonprefix.TestLongestCommonPrefix" />
+      <option name="METHOD_NAME" value="testMyLongestCommonPrefix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -348,19 +380,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestReverseInteger.testAbnormalReverseInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestRomanToInteger.testAbnormalRomanToInteger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy.reverseinteger.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy.romantointeger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.reverseinteger" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.reverseinteger.TestReverseInteger" />
-      <option name="METHOD_NAME" value="testAbnormalReverseInteger" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy.romantointeger" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy.romantointeger.TestRomanToInteger" />
+      <option name="METHOD_NAME" value="testAbnormalRomanToInteger" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -480,19 +512,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testAbnormalReverseInteger" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testMyPalindromeNumber" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testExcellentPalindromeNumber" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testAbnormalPalindromeNumber" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestRomanToInteger.testMyRomanToInteger" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestRomanToInteger.testMyRomanToInteger" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.testMyLongestCommonPrefix" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestRomanToInteger.testAbnormalRomanToInteger" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.testAbnormalLongestCommonPrefix" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.testExcellentLongestCommonPrefix" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestRomanToInteger.testMyRomanToInteger" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testAbnormalPalindromeNumber" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testExcellentPalindromeNumber" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testMyPalindromeNumber" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestReverseInteger.testAbnormalReverseInteger" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.testExcellentLongestCommonPrefix" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.testMyLongestCommonPrefix" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestLongestCommonPrefix.testAbnormalLongestCommonPrefix" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestRomanToInteger.testAbnormalRomanToInteger" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestRomanToInteger.testMyRomanToInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -509,46 +541,48 @@
       <workItem from="1516330930681" duration="16541000" />
       <workItem from="1516537895310" duration="1711000" />
       <workItem from="1516542348625" duration="6090000" />
+      <workItem from="1516585156964" duration="5715000" />
+      <workItem from="1516591400948" duration="7344000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 00m 02s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testAbnormalLongestCommonPrefix - 2018.01.22 at 14h 38m 35s.xml">
+      <configuration name="TestLongestCommonPrefix.testAbnormalLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 03m 06s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testAbnormalLongestCommonPrefix - 2018.01.22 at 14h 39m 33s.xml">
+      <configuration name="TestLongestCommonPrefix.testAbnormalLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 40m 43s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testAbnormalLongestCommonPrefix - 2018.01.22 at 14h 40m 06s.xml">
+      <configuration name="TestLongestCommonPrefix.testAbnormalLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 41m 45s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testExcellentLongestCommonPrefix - 2018.01.22 at 14h 40m 00s.xml">
+      <configuration name="TestLongestCommonPrefix.testExcellentLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 42m 03s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testExcellentLongestCommonPrefix - 2018.01.22 at 14h 40m 16s.xml">
+      <configuration name="TestLongestCommonPrefix.testExcellentLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 42m 34s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testMyLongestCommonPrefix - 2018.01.22 at 14h 16m 16s.xml">
+      <configuration name="TestLongestCommonPrefix.testMyLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 43m 49s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testMyLongestCommonPrefix - 2018.01.22 at 14h 19m 07s.xml">
+      <configuration name="TestLongestCommonPrefix.testMyLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 45m 38s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestLongestCommonPrefix_testMyLongestCommonPrefix - 2018.01.22 at 14h 40m 13s.xml">
+      <configuration name="TestLongestCommonPrefix.testMyLongestCommonPrefix" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.21 at 23h 45m 49s.xml">
-      <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
+    <history-entry file="TestRomanToInteger_testAbnormalRomanToInteger - 2018.01.22 at 14h 10m 02s.xml">
+      <configuration name="TestRomanToInteger.testAbnormalRomanToInteger" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.22 at 00h 06m 57s.xml">
+    <history-entry file="TestRomanToInteger_testMyRomanToInteger - 2018.01.22 at 14h 09m 58s.xml">
       <configuration name="TestRomanToInteger.testMyRomanToInteger" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24342000" />
+    <option name="totallyTimeSpent" value="37401000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="873" y="187" width="1051" height="928" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -559,19 +593,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5037879" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34946758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2677761" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5499182" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55050504" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -590,23 +624,43 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/AbnormalLongestCommonPrefix.java</url>
+          <line>9</line>
           <properties />
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="16" />
+      <option name="time" value="33" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/MyLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/longestcommonprefix/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/ExcellentRomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/MyRomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -685,17 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="46" column="48" lean-forward="false" selection-start-line="46" selection-start-column="48" selection-end-line="46" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/README.md" />
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/MyReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -724,33 +767,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/MyPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/palindromenumber/TestPalindromeNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,30 +790,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/MyRomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-931">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/twosum/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
-            <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/ExcellentPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/reverseinteger/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/MyPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/AbnormalPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/ExcellentRomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/MyRomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/romantointeger/TestRomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="151">
-            <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="44" />
+          <first_editor relative-caret-position="388">
+            <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
             <folding />
           </first_editor>
           <second_editor />
@@ -802,25 +872,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/AbnormalRomanToInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="254">
+          <caret line="39" column="37" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/romantointeger/TestRomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/MyLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="208">
+          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/AbnormalLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/romantointeger/ExcellentRomanToInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/ExcellentLongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        <state relative-caret-position="183">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/longestcommonprefix/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="45" column="50" lean-forward="true" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/longestcommonprefix/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/palindromenumber/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
