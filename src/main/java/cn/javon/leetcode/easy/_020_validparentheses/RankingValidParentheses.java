@@ -1,6 +1,6 @@
 package cn.javon.leetcode.easy._020_validparentheses;
 
-public class AbnormalValidParentheses {
+public class RankingValidParentheses {
 
     /**
      * 思路：

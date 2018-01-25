@@ -17,4 +17,10 @@ public class TestRemoveElement {
         System.out.println(myRemoveElement.removeElement(nums, val));
     }
 
+    @Test
+    public void testOfficialRemoveElement() {
+        OfficialRemoveElement officialRemoveElement = new OfficialRemoveElement();
+        System.out.println(officialRemoveElement.removeElement(nums, val));
+    }
+
 }

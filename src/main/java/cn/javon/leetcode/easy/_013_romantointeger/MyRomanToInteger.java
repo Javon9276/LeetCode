@@ -1,5 +1,9 @@
 package cn.javon.leetcode.easy._013_romantointeger;
 
+/**
+ * @author Javon
+ * @since 2018-01-20
+ **/
 public class MyRomanToInteger {
 
     public int romanToInt(String s) {

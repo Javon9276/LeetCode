@@ -1,5 +1,9 @@
 package cn.javon.leetcode.easy._021_mergetwosortedlists;
 
+/**
+ * @author Javon
+ * @since 2018-01-24
+ **/
 public class MyMergeTwoSortedLists {
 
     /**

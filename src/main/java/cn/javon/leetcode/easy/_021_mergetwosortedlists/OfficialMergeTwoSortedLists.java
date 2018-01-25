@@ -1,6 +1,6 @@
 package cn.javon.leetcode.easy._021_mergetwosortedlists;
 
-public class ExcellentMergeTwoSortedLists {
+public class OfficialMergeTwoSortedLists {
 
     /**
      * First, we set up a false "prehead" node that allows us to easily return the head of the merged list later.

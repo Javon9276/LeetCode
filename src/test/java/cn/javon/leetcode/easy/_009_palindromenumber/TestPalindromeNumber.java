@@ -24,15 +24,15 @@ public class TestPalindromeNumber {
     }
 
     @Test
-    public void testExcellentPalindromeNumber() {
-        ExcellentPalindromeNumber excellentPalindromeNumber = new ExcellentPalindromeNumber();
+    public void testOfficialPalindromeNumber() {
+        OfficialPalindromeNumber officialPalindromeNumber = new OfficialPalindromeNumber();
         System.out.println(num);
-        System.out.println(excellentPalindromeNumber.isPalindrome(num));
+        System.out.println(officialPalindromeNumber.isPalindrome(num));
     }
     @Test
-    public void testAbnormalPalindromeNumber() {
-        AbnormalPalindromeNumber abnormalPalindromeNumber = new AbnormalPalindromeNumber();
+    public void testRankingPalindromeNumber() {
+        RankingPalindromeNumber rankingPalindromeNumber = new RankingPalindromeNumber();
         System.out.println(num);
-        System.out.println(abnormalPalindromeNumber.isPalindrome(num));
+        System.out.println(rankingPalindromeNumber.isPalindrome(num));
     }
 }

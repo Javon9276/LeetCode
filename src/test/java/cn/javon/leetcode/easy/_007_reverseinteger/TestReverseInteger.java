@@ -23,16 +23,16 @@ public class TestReverseInteger {
     }
 
     @Test
-    public void testExcellentReverseInteger() {
-        ExcellentReverseInteger excellentReverseInteger = new ExcellentReverseInteger();
+    public void testOfficialReverseInteger() {
+        OfficialReverseInteger officialReverseInteger = new OfficialReverseInteger();
         System.out.println(num);
-        System.out.println(excellentReverseInteger.reverse(num));
+        System.out.println(officialReverseInteger.reverse(num));
     }
 
     @Test
-    public void testAbnormalReverseInteger() {
-        AbnormalReverseInteger abnormalReverseInteger = new AbnormalReverseInteger();
+    public void testRankingReverseInteger() {
+        RankingReverseInteger rankingReverseInteger = new RankingReverseInteger();
         System.out.println(num);
-        System.out.println(abnormalReverseInteger.reverse(num));
+        System.out.println(rankingReverseInteger.reverse(num));
     }
 }

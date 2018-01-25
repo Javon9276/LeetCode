@@ -1,5 +1,9 @@
 package cn.javon.leetcode.easy._026_removeduplicatesfromsortedarray;
 
+/**
+ * @author Javon
+ * @since 2018-01-24
+ **/
 public class MyRemoveDuplicatesfromSortedArray {
 
     /**

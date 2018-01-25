@@ -1,10 +1,6 @@
 package cn.javon.leetcode.easy._007_reverseinteger;
 
-/**
- * @author Javon
- * @since 2018-01-19
- **/
-public class AbnormalReverseInteger {
+public class RankingReverseInteger {
 
     public int reverse(int x) {
         int output = 0;

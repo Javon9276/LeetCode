@@ -1,5 +1,9 @@
 package cn.javon.leetcode.easy._035_searchinsertposition;
 
+/**
+ * @author Javon
+ * @since 2018-01-25
+ **/
 public class MySearchInsertPosition {
 
     /**

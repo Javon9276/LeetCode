@@ -34,15 +34,15 @@ public class TestMergeTwoSortedLists {
     }
 
     @Test
-    public void testExcellentMergeTwoSortedLists() {
-        ExcellentMergeTwoSortedLists excellentMergeTwoSortedLists = new ExcellentMergeTwoSortedLists();
-        System.out.println(excellentMergeTwoSortedLists.mergeTwoLists(ln1, ln2));
+    public void testOfficialMergeTwoSortedLists() {
+        OfficialMergeTwoSortedLists officialMergeTwoSortedLists = new OfficialMergeTwoSortedLists();
+        System.out.println(officialMergeTwoSortedLists.mergeTwoLists(ln1, ln2));
     }
 
     @Test
-    public void testAbnormalMergeTwoSortedLists() {
-        AbnormalMergeTwoSortedLists abnormalMergeTwoSortedLists = new AbnormalMergeTwoSortedLists();
-        System.out.println(abnormalMergeTwoSortedLists.mergeTwoLists(ln1, ln2));
+    public void testRankingMergeTwoSortedLists() {
+        RankingMergeTwoSortedLists rankingMergeTwoSortedLists = new RankingMergeTwoSortedLists();
+        System.out.println(rankingMergeTwoSortedLists.mergeTwoLists(ln1, ln2));
     }
 
 }

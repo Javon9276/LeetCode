@@ -3,11 +3,7 @@ package cn.javon.leetcode.easy._001_twosum;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author Javon
- * @since 2018-01-19
- **/
-public class ExcellentTwoSum {
+public class OfficialTwoSum {
 
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<Integer, Integer>();

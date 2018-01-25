@@ -20,32 +20,20 @@ public class TestLongestCommonPrefix {
 
     @Test
     public void testMyLongestCommonPrefix() {
-        long startTime = System.currentTimeMillis();
         MyLongestCommonPrefix myLongestCommonPrefix = new MyLongestCommonPrefix();
-        String str = myLongestCommonPrefix.longestCommonPrefix(strs);
-        long endTime = System.currentTimeMillis();
-        System.out.println((endTime - startTime) + "ms");
-        System.out.println(str);
+        System.out.println(myLongestCommonPrefix.longestCommonPrefix(strs));
     }
 
     @Test
-    public void testExcellentLongestCommonPrefix() {
-        long startTime = System.currentTimeMillis();
-        ExcellentLongestCommonPrefix excellentLongestCommonPrefix = new ExcellentLongestCommonPrefix();
-        String str = excellentLongestCommonPrefix.longestCommonPrefix(strs);
-        long endTime = System.currentTimeMillis();
-        System.out.println((endTime - startTime) + "ms");
-        System.out.println(str);
+    public void testOfficialLongestCommonPrefix() {
+        OfficialLongestCommonPrefix officialLongestCommonPrefix = new OfficialLongestCommonPrefix();
+        System.out.println(officialLongestCommonPrefix.longestCommonPrefix(strs));
     }
 
     @Test
-    public void testAbnormalLongestCommonPrefix() {
-        long startTime = System.currentTimeMillis();
-        AbnormalLongestCommonPrefix abnormalLongestCommonPrefix = new AbnormalLongestCommonPrefix();
-        String str = abnormalLongestCommonPrefix.longestCommonPrefix(strs);
-        long endTime = System.currentTimeMillis();
-        System.out.println((endTime - startTime) + "ms");
-        System.out.println(str);
+    public void testRankingLongestCommonPrefix() {
+        RankingLongestCommonPrefix rankingLongestCommonPrefix = new RankingLongestCommonPrefix();
+        System.out.println(rankingLongestCommonPrefix.longestCommonPrefix(strs));
     }
 
 }

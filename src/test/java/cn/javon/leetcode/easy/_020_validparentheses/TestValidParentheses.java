@@ -23,9 +23,9 @@ public class TestValidParentheses {
     }
 
     @Test
-    public void testAbnormalValidParentheses() {
-        AbnormalValidParentheses abnormalValidParentheses = new AbnormalValidParentheses();
-        System.out.println(abnormalValidParentheses.isValid(s));
+    public void testRankingValidParentheses() {
+        RankingValidParentheses rankingValidParentheses = new RankingValidParentheses();
+        System.out.println(rankingValidParentheses.isValid(s));
     }
 
 }

@@ -1,10 +1,6 @@
 package cn.javon.leetcode.easy._009_palindromenumber;
 
-/**
- * @author Javon
- * @since 2018-01-19
- **/
-public class AbnormalPalindromeNumber {
+public class RankingPalindromeNumber {
 
     public boolean isPalindrome(int x) {
         // if(x==Integer.MIN_VALUE) return false;

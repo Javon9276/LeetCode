@@ -18,14 +18,15 @@ public class TestTwoSum {
     }
 
     @Test
-    public void testExcellentTwoSum() {
-        ExcellentTwoSum excellentTwoSum = new ExcellentTwoSum();
-        excellentTwoSum.twoSum(nums, target);
+    public void testOfficialTwoSum() {
+        OfficialTwoSum officialTwoSum = new OfficialTwoSum();
+        officialTwoSum.twoSum(nums, target);
     }
 
-    public void testAbnormalTwoSum() {
-        AbnormalTwoSum abnormalTwoSum = new AbnormalTwoSum();
-        abnormalTwoSum.twoSum(nums, target);
+    @Test
+    public void testRankingTwoSum() {
+        RankingTwoSum rankingTwoSum = new RankingTwoSum();
+        rankingTwoSum.twoSum(nums, target);
     }
 
 }

@@ -15,9 +15,9 @@ public class MyLongestCommonPrefix {
         for (int i = 1; i < strs.length; i++) {
             int length = strs[i].length() > prefix.length() ? prefix.length() : strs[i].length();
             for (int j = 0; j < length; j++) {
-                if(strs[i].charAt(j) == prefix.charAt(j)){
+                if (strs[i].charAt(j) == prefix.charAt(j)) {
                     sb.append(strs[i].charAt(j));
-                }else{
+                } else {
                     break;
                 }
             }

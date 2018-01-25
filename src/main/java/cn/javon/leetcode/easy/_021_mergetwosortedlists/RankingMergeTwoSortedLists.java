@@ -1,6 +1,6 @@
 package cn.javon.leetcode.easy._021_mergetwosortedlists;
 
-public class AbnormalMergeTwoSortedLists {
+public class RankingMergeTwoSortedLists {
 
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null) return l2;
@@ -13,7 +13,6 @@ public class AbnormalMergeTwoSortedLists {
             l2.next = mergeTwoLists(l1, l2.next);
             return l2;
         }
-
     }
 
 }

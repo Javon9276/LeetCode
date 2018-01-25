@@ -4,6 +4,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
+/**
+ * @author Javon
+ * @since 2018-01-23
+ **/
 public class MyValidParentheses {
 
     /**

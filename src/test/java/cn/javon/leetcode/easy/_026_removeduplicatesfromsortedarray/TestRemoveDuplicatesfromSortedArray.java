@@ -16,11 +16,10 @@ public class TestRemoveDuplicatesfromSortedArray {
         System.out.println(myRemoveDuplicatesfromSortedArray.removeDuplicates(nums));
     }
 
-
     @Test
-    public void testExcellentRemoveDuplicatesfromSortedArray() {
-        ExcellentRemoveDuplicatesfromSortedArray excellentRemoveDuplicatesfromSortedArray = new ExcellentRemoveDuplicatesfromSortedArray();
-        System.out.println(excellentRemoveDuplicatesfromSortedArray.removeDuplicates(nums));
+    public void testOfficialRemoveDuplicatesfromSortedArray() {
+        OfficialRemoveDuplicatesfromSortedArray officialRemoveDuplicatesfromSortedArray = new OfficialRemoveDuplicatesfromSortedArray();
+        System.out.println(officialRemoveDuplicatesfromSortedArray.removeDuplicates(nums));
     }
 
 }

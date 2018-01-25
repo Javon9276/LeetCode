@@ -1,10 +1,6 @@
 package cn.javon.leetcode.easy._009_palindromenumber;
 
-/**
- * @author Javon
- * @since 2018-01-19
- **/
-public class ExcellentPalindromeNumber {
+public class OfficialPalindromeNumber {
 
     public boolean isPalindrome(int x) {
         // Special cases:

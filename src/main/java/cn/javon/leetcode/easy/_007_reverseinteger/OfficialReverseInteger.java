@@ -1,10 +1,6 @@
 package cn.javon.leetcode.easy._007_reverseinteger;
 
-/**
- * @author Javon
- * @since 2018-01-19
- **/
-public class ExcellentReverseInteger {
+public class OfficialReverseInteger {
 
     public int reverse(int x) {
         long result = 0;

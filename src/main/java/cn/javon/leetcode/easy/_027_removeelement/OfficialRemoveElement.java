@@ -1,10 +1,6 @@
 package cn.javon.leetcode.easy._027_removeelement;
 
-/**
- * @author Javon
- * @since 2018-01-25
- **/
-public class ExcellentRemoveElement {
+public class OfficialRemoveElement {
 
     /**
      * When we encounter nums[i] = valnums[i]=val,

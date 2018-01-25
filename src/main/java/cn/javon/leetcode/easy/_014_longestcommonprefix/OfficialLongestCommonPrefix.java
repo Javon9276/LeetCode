@@ -1,10 +1,6 @@
 package cn.javon.leetcode.easy._014_longestcommonprefix;
 
-/**
- * @author Javon
- * @since 2018-01-22
- **/
-public class ExcellentLongestCommonPrefix {
+public class OfficialLongestCommonPrefix {
 
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0)
