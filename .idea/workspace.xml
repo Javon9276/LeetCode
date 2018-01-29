@@ -2,64 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_001_twosum/AbnormalTwoSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_001_twosum/ExcellentTwoSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_007_reverseinteger/AbnormalReverseInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_007_reverseinteger/ExcellentReverseInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_009_palindromenumber/AbnormalPalindromeNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_009_palindromenumber/ExcellentPalindromeNumber.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_013_romantointeger/AbnormalRomanToInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_014_longestcommonprefix/AbnormalLongestCommonPrefix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_014_longestcommonprefix/ExcellentLongestCommonPrefix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_020_validparentheses/AbnormalValidParentheses.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_021_mergetwosortedlists/AbnormalMergeTwoSortedLists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_021_mergetwosortedlists/ExcellentMergeTwoSortedLists.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/ExcellentRemoveDuplicatesfromSortedArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_027_removeelement/ExcellentRemoveElement.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_013_romantointeger/MyRomanToInteger.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_013_romantointeger/MyRomanToInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_021_mergetwosortedlists/MyMergeTwoSortedLists.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_021_mergetwosortedlists/MyMergeTwoSortedLists.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_035_searchinsertposition/MySearchInsertPosition.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_035_searchinsertposition/MySearchInsertPosition.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_013_romantointeger/TestRomanToInteger.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_013_romantointeger/TestRomanToInteger.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/MyRomanToInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/MyRomanToInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/MyMergeTwoSortedLists.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/MyMergeTwoSortedLists.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/MySearchInsertPosition.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/MySearchInsertPosition.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_013_romantointeger/TestRomanToInteger.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_013_romantointeger/TestRomanToInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/AbnormalTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/ExcellentTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/AbnormalReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/ExcellentReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/AbnormalPalindromeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/ExcellentPalindromeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/AbnormalRomanToInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/RankingRomanToInteger.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/AbnormalLongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/RankingLongestCommonPrefix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/ExcellentLongestCommonPrefix.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/OfficialLongestCommonPrefix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/AbnormalValidParentheses.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/RankingValidParentheses.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/AbnormalMergeTwoSortedLists.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/RankingMergeTwoSortedLists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ExcellentMergeTwoSortedLists.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/OfficialMergeTwoSortedLists.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/ExcellentRemoveDuplicatesfromSortedArray.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/OfficialRemoveDuplicatesfromSortedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement/ExcellentRemoveElement.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement/OfficialRemoveElement.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -107,14 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/validparentheses/TestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/validparentheses/MyValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/validparentheses/AbnormalValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/AbnormalValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/AbnormalMergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ExcellentMergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/AbnormalRemoveDuplicatesfromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/ExcellentRemoveDuplicatesfromSortedArray.java" />
@@ -127,7 +63,6 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_028_implementstrstr/RankingImplementStrStr.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_028_implementstrstr/TestImplementStrStr.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_035_searchinsertposition/TestSearchInsertPosition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/RankingSearchInsertPosition.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/ExcellentTwoSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/AbnormalTwoSum.java" />
@@ -158,6 +93,15 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/RankingCountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/MyCountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_038_countandsay/TestCountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_053_maximumsubarray/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_053_maximumsubarray/TestMaximumSubarray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_053_maximumsubarray/MyMaximumSubarray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_053_maximumsubarray/RankingMaximumSubarray.java" />
       </list>
     </option>
   </component>
@@ -168,10 +112,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="396" />
-    <option name="y" value="128" />
+    <option name="x" value="-8" />
+    <option name="y" value="90" />
     <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="height" value="693" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -228,6 +172,24 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_038_countandsay" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_053_maximumsubarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -253,10 +215,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -269,12 +231,15 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="cn.javon.leetcode.easy" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.javon.leetcode.easy._053_maximumsubarray" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_053_maximumsubarray" />
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_038_countandsay" />
+      <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_035_searchinsertposition" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_028_implementstrstr" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_027_removeelement" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_026_removeduplicatesfromsortedarray" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_021_mergetwosortedlists" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -289,7 +254,132 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestMaximumSubarray.testMyMaximumSubarray">
+    <configuration name="TestCountAndSay.testMyCountAndSay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._038_countandsay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._038_countandsay" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._038_countandsay.TestCountAndSay" />
+      <option name="METHOD_NAME" value="testMyCountAndSay" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestCountAndSay.testRankingCountAndSay" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._038_countandsay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._038_countandsay" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._038_countandsay.TestCountAndSay" />
+      <option name="METHOD_NAME" value="testRankingCountAndSay" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestMaximumSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._053_maximumsubarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._053_maximumsubarray" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._053_maximumsubarray.TestMaximumSubarray" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestMaximumSubarray.testMyMaximumSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._053_maximumsubarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._053_maximumsubarray" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._053_maximumsubarray.TestMaximumSubarray" />
+      <option name="METHOD_NAME" value="testMyMaximumSubarray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestMaximumSubarray.testRankingMaximumSubarray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._053_maximumsubarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._053_maximumsubarray" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._053_maximumsubarray.TestMaximumSubarray" />
+      <option name="METHOD_NAME" value="testRankingMaximumSubarray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -371,6 +461,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.testMyCountAndSay" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.testRankingCountAndSay" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestMaximumSubarray.testMyMaximumSubarray" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestMaximumSubarray" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestMaximumSubarray.testRankingMaximumSubarray" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMaximumSubarray.testMyMaximumSubarray" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestMaximumSubarray.testRankingMaximumSubarray" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestMaximumSubarray" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.testRankingCountAndSay" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestCountAndSay.testMyCountAndSay" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -389,75 +495,77 @@
       <workItem from="1516591400948" duration="7565000" />
       <workItem from="1516670093213" duration="7340000" />
       <workItem from="1516756352550" duration="15198000" />
-      <workItem from="1516842833694" duration="9034000" />
+      <workItem from="1516842833694" duration="9257000" />
+      <workItem from="1516857709182" duration="352000" />
+      <workItem from="1517206223595" duration="13362000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 08m 30s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 16h 34m 49s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 09m 20s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 16h 35m 16s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 09m 36s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 16h 46m 22s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 09m 46s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 16h 49m 06s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 10m 10s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 17h 01m 10s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 10m 23s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 17h 15m 35s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 10m 41s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 17h 41m 03s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 10m 50s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 17h 42m 34s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testMySearchInsertPosition - 2018.01.25 at 11h 16m 27s.xml">
-      <configuration name="TestSearchInsertPosition.testMySearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testMyMaximumSubarray - 2018.01.29 at 17h 43m 58s.xml">
+      <configuration name="TestMaximumSubarray.testMyMaximumSubarray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSearchInsertPosition_testRankingSearchInsertPosition - 2018.01.25 at 11h 14m 45s.xml">
-      <configuration name="TestSearchInsertPosition.testRankingSearchInsertPosition" configurationId="JUnit" />
+    <history-entry file="TestMaximumSubarray_testRankingMaximumSubarray - 2018.01.29 at 17h 16m 57s.xml">
+      <configuration name="TestMaximumSubarray.testRankingMaximumSubarray" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69194000" />
+    <option name="totallyTimeSpent" value="83131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34697217" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27987897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19288956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5057283" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.63175124" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -497,119 +605,16 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="49" />
+      <option name="time" value="61" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="26" lean-forward="false" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/AbnormalRemoveDuplicatesfromSortedArray.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="46" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="1743" column="31" lean-forward="true" selection-start-line="1743" selection-start-column="31" selection-end-line="1743" selection-end-column="31" />
-          <folding>
-            <element signature="e#66593#66594#0" expanded="true" />
-            <element signature="e#66631#66632#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_028_implementstrstr/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-186">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -619,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -635,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="12" column="24" lean-forward="false" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,7 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="40" lean-forward="false" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -667,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -675,7 +673,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -683,7 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -691,7 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="31" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -699,7 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -707,7 +701,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +708,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="22" column="44" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,7 +715,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -731,7 +722,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -739,7 +729,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-38">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -747,7 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="46" lean-forward="false" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +750,154 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="30" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/MySearchInsertPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/MyRomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_013_romantointeger/TestRomanToInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="66" lean-forward="false" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement/MyRemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="59" lean-forward="false" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement/OfficialRemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_028_implementstrstr/TestImplementStrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-34">
+            <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/StringBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="394" column="31" lean-forward="false" selection-start-line="394" selection-start-column="31" selection-end-line="394" selection-end-column="31" />
+          <folding>
+            <element signature="e#12079#12080#0" expanded="false" />
+            <element signature="e#12125#12126#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -775,154 +909,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/MySearchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/MyRomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_013_romantointeger/TestRomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="44" column="53" lean-forward="false" selection-start-line="44" selection-start-column="53" selection-end-line="44" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="66" lean-forward="false" selection-start-line="21" selection-start-column="66" selection-end-line="21" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement/MyRemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="59" lean-forward="false" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_027_removeelement/OfficialRemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="48" lean-forward="false" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_028_implementstrstr/TestImplementStrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_035_searchinsertposition/TestSearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="21" column="64" lean-forward="true" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+        <state relative-caret-position="411">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/RankingCountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_053_maximumsubarray/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="53" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/MyCountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_038_countandsay/TestCountAndSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_053_maximumsubarray/TestMaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_053_maximumsubarray/MyMaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_053_maximumsubarray/RankingMaximumSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="16" column="37" lean-forward="false" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
           <folding />
         </state>
       </provider>

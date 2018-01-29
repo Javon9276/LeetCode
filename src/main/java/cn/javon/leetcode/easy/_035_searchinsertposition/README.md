@@ -25,7 +25,6 @@ Output: 0
 ```
 
 # 问题
-Given a sorted array and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
 提供一个排序好的数组和一个目标值，如果目标找到则返回下标，如果找不到，则按顺序插入，则返回下标。
 
 你可能会认为没有重复的数组。
