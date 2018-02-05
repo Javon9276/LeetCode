@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_067_addbinary/MyAddBinary.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_067_addbinary/MyAddBinary.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,31 +20,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MySqrtX.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/MySqrtX.java">
+      <file leaf-file-name="OfficialClimbingStairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/OfficialClimbingStairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="330">
+              <caret line="116" column="29" lean-forward="false" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="29" />
+              <folding>
+                <element signature="e#223#224#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyClimbingStairs.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/MyClimbingStairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="20" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RankingSqrtX.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/RankingSqrtX.java">
+      <file leaf-file-name="TestClimbingStairs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_070_climbingstairs/TestClimbingStairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="35" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestSqrtX.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_069_sqrt_x/TestSqrtX.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+            <state relative-caret-position="520">
+              <caret line="28" column="64" lean-forward="false" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -89,10 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/RankingRomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/OfficialLongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/RankingLongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/MyMergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/RankingMergeTwoSortedLists.java" />
@@ -137,9 +135,13 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_067_addbinary/MyAddBinary.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_067_addbinary/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/MySqrtX.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/RankingSqrtX.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_069_sqrt_x/TestSqrtX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/MySqrtX.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/MyClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/OfficialClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_070_climbingstairs/TestClimbingStairs.java" />
       </list>
     </option>
   </component>
@@ -149,7 +151,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="107" />
     <option name="y" value="48" />
     <option name="width" value="1186" />
@@ -214,7 +216,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_067_addbinary" type="462c0819:PsiDirectoryNode" />
+              <item name="_027_removeelement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -223,7 +225,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_069_sqrt_x" type="462c0819:PsiDirectoryNode" />
+              <item name="_070_climbingstairs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -253,7 +255,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_069_sqrt_x" type="462c0819:PsiDirectoryNode" />
+              <item name="_070_climbingstairs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -263,9 +265,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,11 +286,11 @@
       <recent name="cn.javon.leetcode.easy._053_maximumsubarray" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_070_climbingstairs" />
+      <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_069_sqrt_x" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_67_addbinary" />
-      <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_066_plusone" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_58_lengthoflastword" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,20 +305,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSqrtX.testMySqrtX">
-    <configuration name="TestAddBinary.testMyAddBinary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestClimbingStairs.testOfficialClimbingStairs">
+    <configuration name="TestClimbingStairs.testMyClimbingStairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._067_addbinary.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._070_climbingstairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._067_addbinary" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._067_addbinary.TestAddBinary" />
-      <option name="METHOD_NAME" value="testMyAddBinary" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._070_climbingstairs" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._070_climbingstairs.TestClimbingStairs" />
+      <option name="METHOD_NAME" value="testMyClimbingStairs" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -329,19 +331,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestAddBinary.testRankingAddBinary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestClimbingStairs.testOfficialClimbingStairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._067_addbinary.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._070_climbingstairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._067_addbinary" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._067_addbinary.TestAddBinary" />
-      <option name="METHOD_NAME" value="testRankingAddBinary" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._070_climbingstairs" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._070_climbingstairs.TestClimbingStairs" />
+      <option name="METHOD_NAME" value="testOfficialClimbingStairs" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -511,19 +513,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestAddBinary.testMyAddBinary" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestAddBinary.testRankingAddBinary" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testMySqrtX" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testSystem" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testRankingSqrtX" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testMySqrtX" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testSystem" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testRankingSqrtX" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testMyClimbingStairs" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testOfficialClimbingStairs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testMySqrtX" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testRankingSqrtX" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testSystem" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestAddBinary.testMyAddBinary" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestAddBinary.testRankingAddBinary" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testOfficialClimbingStairs" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testMyClimbingStairs" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testMySqrtX" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testRankingSqrtX" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestSqrtX.testSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -554,18 +556,16 @@
       <workItem from="1517468647014" duration="660000" />
       <workItem from="1517535254039" duration="8100000" />
       <workItem from="1517543812130" duration="16000" />
+      <workItem from="1517795627805" duration="2604000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestSqrtX_testMySqrtX - 2018.02.02 at 11h 35m 38s.xml">
-      <configuration name="TestSqrtX.testMySqrtX" configurationId="JUnit" />
+    <history-entry file="TestClimbingStairs_testMyClimbingStairs - 2018.02.05 at 10h 10m 42s.xml">
+      <configuration name="TestClimbingStairs.testMyClimbingStairs" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSqrtX_testMySqrtX - 2018.02.02 at 11h 35m 56s.xml">
-      <configuration name="TestSqrtX.testMySqrtX" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSqrtX_testMySqrtX - 2018.02.02 at 11h 37m 01s.xml">
-      <configuration name="TestSqrtX.testMySqrtX" configurationId="JUnit" />
+    <history-entry file="TestClimbingStairs_testOfficialClimbingStairs - 2018.02.05 at 10h 20m 48s.xml">
+      <configuration name="TestClimbingStairs.testOfficialClimbingStairs" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestSqrtX_testMySqrtX - 2018.02.02 at 11h 47m 18s.xml">
       <configuration name="TestSqrtX.testMySqrtX" configurationId="JUnit" />
@@ -582,6 +582,9 @@
     <history-entry file="TestSqrtX_testMySqrtX - 2018.02.02 at 11h 56m 04s.xml">
       <configuration name="TestSqrtX.testMySqrtX" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestSqrtX_testMySqrtX - 2018.02.05 at 10h 10m 13s.xml">
+      <configuration name="TestSqrtX.testMySqrtX" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="TestSqrtX_testRankingSqrtX - 2018.02.02 at 11h 50m 20s.xml">
       <configuration name="TestSqrtX.testRankingSqrtX" configurationId="JUnit" />
     </history-entry>
@@ -590,25 +593,26 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107008000" />
+    <option name="totallyTimeSpent" value="109612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="107" y="48" width="1186" height="755" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32436708" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35530546" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3535188" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25577265" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21785174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -621,7 +625,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32436708" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -679,34 +682,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_020_validparentheses/MyValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="50" lean-forward="false" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -1039,18 +1014,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/MySqrtX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="665">
+            <caret line="35" column="3" lean-forward="true" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_069_sqrt_x/TestSqrtX.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
+        <state relative-caret-position="544">
           <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/MySqrtX.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/OfficialClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state relative-caret-position="330">
+          <caret line="116" column="29" lean-forward="false" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="29" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/MyClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_070_climbingstairs/TestClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="28" column="64" lean-forward="false" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
           <folding />
         </state>
       </provider>
