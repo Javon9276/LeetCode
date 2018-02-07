@@ -18,8 +18,63 @@
       <FILTER>cn.javon.leetcode.easy._069_sqrt_x.*</FILTER>
     </SUITE>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMergeSortedArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyMergeSortedArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="406">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RankingMergeSortedArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,10 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_013_romantointeger/TestRomanToInteger.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.java" />
@@ -108,6 +159,10 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/MyRemoveDuplicatesFromSortedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/OfficialRemoveDuplicatesFromSortedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java" />
       </list>
     </option>
   </component>
@@ -118,8 +173,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="107" />
-    <option name="y" value="48" />
+    <option name="x" value="326" />
+    <option name="y" value="21" />
     <option name="width" value="1186" />
     <option name="height" value="755" />
   </component>
@@ -141,6 +196,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,39 +239,21 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_021_mergetwosortedlists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_069_sqrt_x" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_070_climbingstairs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="_083_removeduplicatesfromsortedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_088_mergesortedarray" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,33 +270,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_021_mergetwosortedlists" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_070_climbingstairs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_083_removeduplicatesfromsortedlist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -267,15 +280,12 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdminFrame" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -288,11 +298,11 @@
       <recent name="cn.javon.leetcode.easy._053_maximumsubarray" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_088_mergesortedarray" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_083_removeduplicatesfromsortedlist" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_070_climbingstairs" />
       <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_069_sqrt_x" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_67_addbinary" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -307,20 +317,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList">
-    <configuration name="TestClimbingStairs.testMyClimbingStairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestMergeSortedArray.testRankingMergeSortedArray">
+    <configuration name="TestMergeSortedArray.testMyMergeSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._070_climbingstairs.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._088_mergesortedarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._070_climbingstairs" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._070_climbingstairs.TestClimbingStairs" />
-      <option name="METHOD_NAME" value="testMyClimbingStairs" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._088_mergesortedarray" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._088_mergesortedarray.TestMergeSortedArray" />
+      <option name="METHOD_NAME" value="testMyMergeSortedArray" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -333,19 +343,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestClimbingStairs.testOfficialClimbingStairs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMergeSortedArray.testRankingMergeSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._070_climbingstairs.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._088_mergesortedarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._070_climbingstairs" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._070_climbingstairs.TestClimbingStairs" />
-      <option name="METHOD_NAME" value="testOfficialClimbingStairs" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._088_mergesortedarray" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._088_mergesortedarray.TestMergeSortedArray" />
+      <option name="METHOD_NAME" value="testRankingMergeSortedArray" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -515,19 +525,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testMyClimbingStairs" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testOfficialClimbingStairs" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testMyMergeSortedArray" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testRankingMergeSortedArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testOfficialClimbingStairs" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestClimbingStairs.testMyClimbingStairs" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testRankingMergeSortedArray" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testMyMergeSortedArray" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" />
       </list>
     </recent_temporary>
   </component>
@@ -561,46 +571,49 @@
       <workItem from="1517795627805" duration="2771000" />
       <workItem from="1517798461091" duration="33000" />
       <workItem from="1517899889960" duration="3640000" />
+      <workItem from="1517905084859" duration="353000" />
+      <workItem from="1517970667727" duration="6912000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 39m 01s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 26m 16s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 40m 05s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 26m 44s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 42m 03s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 26m 51s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 42m 08s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 27m 04s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 43m 28s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 27m 16s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 44m 13s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 28m 36s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 44m 28s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 29m 45s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testMyMergeTwoSortedLists - 2018.02.06 at 15h 44m 45s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 29m 59s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testOfficialRemoveDuplicatesFromSortedList - 2018.02.06 at 15h 51m 03s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 30m 05s.xml">
+      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestRemoveDuplicatesFromSortedList_testRankingRemoveDuplicatesFromSortedList - 2018.02.06 at 15h 51m 12s.xml">
-      <configuration name="TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" configurationId="JUnit" />
+    <history-entry file="TestMergeSortedArray_testRankingMergeSortedArray - 2018.02.07 at 15h 41m 32s.xml">
+      <configuration name="TestMergeSortedArray.testRankingMergeSortedArray" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113452000" />
+    <option name="totallyTimeSpent" value="120717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -615,14 +628,14 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22087745" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4599018" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.512275" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -680,39 +693,11 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="92" />
+      <option name="time" value="96" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="394" column="31" lean-forward="false" selection-start-line="394" selection-start-column="31" selection-end-line="394" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/RankingSearchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_035_searchinsertposition/TestSearchInsertPosition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/RankingCountAndSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -978,10 +963,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2166">
           <caret line="116" column="29" lean-forward="false" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="29" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,7 +970,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="20" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,10 +993,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1024,15 +1000,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,7 +1008,7 @@
         <state relative-caret-position="330">
           <caret line="60" column="51" lean-forward="false" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1050,7 +1017,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1058,7 +1024,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,7 +1031,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,9 +1039,51 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
             <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
