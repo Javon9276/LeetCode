@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -65,7 +64,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestSameTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestSameTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_100_sametree/TestSameTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="761">
@@ -73,6 +72,19 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="749">
+                <caret line="70" column="2" lean-forward="false" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -162,11 +174,11 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/MySameTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/RankingSameTree.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_100_sametree/TestSameTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md" />
       </list>
     </option>
   </component>
@@ -578,14 +590,11 @@
       <workItem from="1517899889960" duration="3640000" />
       <workItem from="1517905084859" duration="353000" />
       <workItem from="1517970667727" duration="6912000" />
-      <workItem from="1518091679302" duration="3694000" />
+      <workItem from="1518091679302" duration="3831000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 29m 59s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 30m 05s.xml">
       <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
@@ -613,9 +622,12 @@
     <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 41m 26s.xml">
       <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestSameTree_testRankingSameTree - 2018.02.08 at 21h 51m 34s.xml">
+      <configuration name="TestSameTree.testRankingSameTree" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124411000" />
+    <option name="totallyTimeSpent" value="124548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -1017,17 +1029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="369">
-            <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1070,6 +1071,17 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="749">
+            <caret line="70" column="2" lean-forward="false" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
