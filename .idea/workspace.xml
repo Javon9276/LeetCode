@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.class" afterPath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,46 +31,48 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
-                <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestMergeSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="MySameTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/MySameTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="-161">
+              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyMergeSortedArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java">
+      <file leaf-file-name="RankingSameTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/RankingSameTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="138">
+              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RankingMergeSortedArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java">
+      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/TreeNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
-              <folding />
+            <state relative-caret-position="0">
+              <caret line="0" column="42" lean-forward="true" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+              <folding>
+                <element signature="e#145#146#0" expanded="true" />
+                <element signature="e#168#169#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSameTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_100_sametree/TestSameTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="761">
+              <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +96,7 @@
       <find>@author Javon</find>
       <find>Excellent</find>
       <find>throws InterruptedException</find>
+      <find>*</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -112,11 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_020_validparentheses/TestValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/MyRemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_026_removeduplicatesfromsortedarray/TestRemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_027_removeelement/TestRemoveElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_035_searchinsertposition/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/RankingCountAndSay.java" />
@@ -163,6 +162,11 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/MySameTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/RankingSameTree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_100_sametree/TestSameTree.java" />
       </list>
     </option>
   </component>
@@ -173,8 +177,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="326" />
-    <option name="y" value="21" />
+    <option name="x" value="-77" />
+    <option name="y" value="395" />
     <option name="width" value="1186" />
     <option name="height" value="755" />
   </component>
@@ -196,9 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,16 +241,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_083_removeduplicatesfromsortedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_088_mergesortedarray" type="462c0819:PsiDirectoryNode" />
+              <item name="_100_sametree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -270,6 +263,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_100_sametree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -279,7 +281,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,15 +298,16 @@
       <recent name="cn.javon.leetcode.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.javon.leetcode.easy._100_sametree" />
       <recent name="cn.javon.leetcode.easy._67_addbinary" />
       <recent name="cn.javon.leetcode.easy._053_maximumsubarray" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_100_sametree" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_088_mergesortedarray" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_083_removeduplicatesfromsortedlist" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_070_climbingstairs" />
       <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_069_sqrt_x" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -317,7 +322,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestMergeSortedArray.testRankingMergeSortedArray">
+  <component name="RunManager" selected="JUnit.TestSameTree.testRankingSameTree">
     <configuration name="TestMergeSortedArray.testMyMergeSortedArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -368,56 +373,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist.TestRemoveDuplicatesFromSortedList" />
-      <option name="METHOD_NAME" value="testMyMergeTwoSortedLists" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist.TestRemoveDuplicatesFromSortedList" />
-      <option name="METHOD_NAME" value="testOfficialRemoveDuplicatesFromSortedList" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -431,6 +386,56 @@
       <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist" />
       <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._083_removeduplicatesfromsortedlist.TestRemoveDuplicatesFromSortedList" />
       <option name="METHOD_NAME" value="testRankingRemoveDuplicatesFromSortedList" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestSameTree.testMySameTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._100_sametree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._100_sametree" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._100_sametree.TestSameTree" />
+      <option name="METHOD_NAME" value="testMySameTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestSameTree.testRankingSameTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._100_sametree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._100_sametree" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._100_sametree.TestSameTree" />
+      <option name="METHOD_NAME" value="testRankingSameTree" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -525,19 +530,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testMyMergeSortedArray" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testRankingMergeSortedArray" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testMyMergeSortedArray" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testRankingMergeSortedArray" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSameTree.testMySameTree" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSameTree.testRankingSameTree" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testRankingMergeSortedArray" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testMyMergeSortedArray" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testOfficialRemoveDuplicatesFromSortedList" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testMyMergeTwoSortedLists" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestSameTree.testRankingSameTree" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSameTree.testMySameTree" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testRankingMergeSortedArray" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestMergeSortedArray.testMyMergeSortedArray" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveDuplicatesFromSortedList.testRankingRemoveDuplicatesFromSortedList" />
       </list>
     </recent_temporary>
   </component>
@@ -573,31 +578,11 @@
       <workItem from="1517899889960" duration="3640000" />
       <workItem from="1517905084859" duration="353000" />
       <workItem from="1517970667727" duration="6912000" />
+      <workItem from="1518091679302" duration="3694000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 26m 16s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 26m 44s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 26m 51s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 27m 04s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 27m 16s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 28m 36s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 29m 45s.xml">
-      <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestMergeSortedArray_testMyMergeSortedArray - 2018.02.07 at 15h 29m 59s.xml">
       <configuration name="TestMergeSortedArray.testMyMergeSortedArray" configurationId="JUnit" />
     </history-entry>
@@ -607,12 +592,33 @@
     <history-entry file="TestMergeSortedArray_testRankingMergeSortedArray - 2018.02.07 at 15h 41m 32s.xml">
       <configuration name="TestMergeSortedArray.testRankingMergeSortedArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 30m 50s.xml">
+      <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 31m 02s.xml">
+      <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 35m 37s.xml">
+      <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 35m 41s.xml">
+      <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 35m 54s.xml">
+      <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 40m 04s.xml">
+      <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSameTree_testMySameTree - 2018.02.08 at 21h 41m 26s.xml">
+      <configuration name="TestSameTree.testMySameTree" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120717000" />
+    <option name="totallyTimeSpent" value="124411000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -623,19 +629,18 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3535188" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35307017" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28229168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.512275" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5120614" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -644,6 +649,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -693,52 +699,11 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="96" />
+      <option name="time" value="97" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_053_maximumsubarray/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="57">
-            <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/MyCountAndSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_038_countandsay/TestCountAndSay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_053_maximumsubarray/TestMaximumSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -851,13 +816,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_67_addbinary/TestAddBinary.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_67_addbinary/MyAddBinary.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="655" column="16" lean-forward="false" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/String.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_066_plusone/TestPlusOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -906,27 +865,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/StrictMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="250" column="36" lean-forward="false" selection-start-line="250" selection-start-column="36" selection-end-line="250" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="514" column="7" lean-forward="true" selection-start-line="514" selection-start-column="7" selection-end-line="514" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="320" column="28" lean-forward="false" selection-start-line="320" selection-start-column="28" selection-end-line="320" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/StrictMath.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Random.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Math.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/RankingSqrtX.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -977,7 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -985,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1048,15 +987,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="369">
+            <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1066,24 +1031,45 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="42" lean-forward="true" selection-start-line="0" selection-start-column="42" selection-end-line="0" selection-end-column="42" />
+          <folding>
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/RankingSameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/MySameTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="18" />
+        <state relative-caret-position="-161">
+          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_100_sametree/TestSameTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
