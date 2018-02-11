@@ -9,6 +9,10 @@ import java.util.Queue;
  **/
 public class MyMaximumDepthOfBinaryTree {
 
+    /**
+     * 思路：
+     * 相当于BFS（宽度优先搜索算法（又称广度优先搜索））
+     */
     public int maxDepth(TreeNode root) {
         if (root == null)
             return 0;
