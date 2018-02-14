@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="" />
+    <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/MyConvertSortedArrayToBinarySearchTree.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/TestConvertSortedArrayToBinarySearchTree.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/TestConvertSortedArrayToBinarySearchTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,49 +32,41 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RankingConvertSortedArrayToBinarySearchTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/RankingConvertSortedArrayToBinarySearchTree.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MyBalancedBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/MyBalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="1216">
+              <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="27" />
               <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#675#685#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="323">
-                <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="TestBalancedBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_110_balancedbinarytree/TestBalancedBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-487">
+              <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/TreeNode.java">
+      <file leaf-file-name="RankingBalancedBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/RankingBalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestConvertSortedArrayToBinarySearchTree.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/TestConvertSortedArrayToBinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="70" lean-forward="false" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
-              <folding />
+            <state relative-caret-position="76">
+              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -114,11 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_67_addbinary/README.md" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_67_addbinary/TestAddBinary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_67_addbinary/MyAddBinary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_067_addbinary/RankingAddBinary.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_067_addbinary/TestAddBinary.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_067_addbinary/MyAddBinary.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_067_addbinary/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_069_sqrt_x/README.md" />
@@ -165,6 +156,11 @@
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/TestConvertSortedArrayToBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/RankingConvertSortedArrayToBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_110_balancedbinarytree/TestBalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/MyBalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/RankingBalancedBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -235,15 +231,6 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_108_convertsortedarraytobinarysearchtree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,15 +247,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_108_convertsortedarraytobinarysearchtree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -278,16 +256,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../company/IEM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -296,18 +274,18 @@
       <recent name="cn.javon.leetcode.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.javon.leetcode.easy._110_balancedbinarytree" />
       <recent name="cn.javon.leetcode.easy._108_convertsortedarraytobinarysearchtree" />
       <recent name="cn.javon.leetcode.easy._107_binarytreelevelordertraversalii" />
       <recent name="cn.javon.leetcode.easy._104_maximumdepthofbinarytree" />
       <recent name="cn.javon.leetcode.easy._101_symmetrictree" />
-      <recent name="cn.javon.leetcode.easy._100_sametree" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_110_balancedbinarytree" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_108_convertsortedarraytobinarysearchtree" />
       <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_107_binarytreelevelordertraversalii" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_104_maximumdepthofbinarytree" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_101_symmetrictree" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -322,7 +300,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree">
+  <component name="RunManager" selected="JUnit.TestBalancedBinaryTree.testMyBalancedBinaryTree">
+    <configuration name="TestBalancedBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._110_balancedbinarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree.TestBalancedBinaryTree" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._110_balancedbinarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree.TestBalancedBinaryTree" />
+      <option name="METHOD_NAME" value="testMyBalancedBinaryTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestBalancedBinaryTree.testRankingBalancedBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._110_balancedbinarytree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree.TestBalancedBinaryTree" />
+      <option name="METHOD_NAME" value="testRankingBalancedBinaryTree" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -429,9 +482,18 @@
       <properties />
       <listeners />
     </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree.testMyBalancedBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree.testRankingBalancedBinaryTree" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree.testMyBalancedBinaryTree" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree.testRankingBalancedBinaryTree" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" />
       </list>
     </recent_temporary>
   </component>
@@ -475,48 +537,49 @@
       <workItem from="1518312410609" duration="3142000" />
       <workItem from="1518315604287" duration="235000" />
       <workItem from="1518398515236" duration="2660000" />
-      <workItem from="1518484647757" duration="6926000" />
+      <workItem from="1518484647757" duration="7012000" />
+      <workItem from="1518513422833" duration="3206000" />
+      <workItem from="1518570220998" duration="2655000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 10h 53m 10s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 23m 30s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 10h 53m 33s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 23m 51s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 10h 54m 22s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 25m 58s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 10h 55m 18s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 26m 41s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 10h 55m 34s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 27m 02s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 10h 56m 07s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 27m 43s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 10h 58m 57s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 35m 08s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 11h 07m 18s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 36m 14s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 11h 07m 43s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testMyBalancedBinaryTree - 2018.02.14 at 09h 37m 29s.xml">
+      <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestConvertSortedArrayToBinarySearchTree_testMyConvertSortedArrayToBinarySearchTree - 2018.02.13 at 11h 08m 52s.xml">
-      <configuration name="TestConvertSortedArrayToBinarySearchTree.testMyConvertSortedArrayToBinarySearchTree" configurationId="JUnit" />
+    <history-entry file="TestBalancedBinaryTree_testRankingBalancedBinaryTree - 2018.02.13 at 18h 07m 11s.xml">
+      <configuration name="TestBalancedBinaryTree.testRankingBalancedBinaryTree" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140988000" />
+    <option name="totallyTimeSpent" value="146935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -526,20 +589,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28641573" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35188216" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27155825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27987897" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5090016" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5106383" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -596,53 +659,11 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="109" />
+      <option name="time" value="115" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/OfficialClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2166">
-          <caret line="116" column="29" lean-forward="false" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_070_climbingstairs/MyClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_070_climbingstairs/TestClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/TestMergeTwoSortedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/TestRemoveDuplicatesFromSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="60" column="51" lean-forward="false" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -836,7 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,20 +864,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/MyMaximumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/RankingMaximumDepthOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -872,30 +878,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#430#445#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_107_binarytreelevelordertraversalii/TestBinaryTreeLevelOrderTraversalII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="57" column="56" lean-forward="true" selection-start-line="57" selection-start-column="56" selection-end-line="57" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -913,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="733" column="16" lean-forward="false" selection-start-line="733" selection-start-column="16" selection-end-line="733" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -921,7 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -929,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -937,27 +916,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="e#351#366#0" expanded="true" />
-            <element signature="e#456#466#0" expanded="true" />
-            <element signature="e#582#591#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/MyConvertSortedArrayToBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/MyConvertSortedArrayToBinarySearchTree.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/TestConvertSortedArrayToBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="70" lean-forward="false" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -965,18 +931,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_108_convertsortedarraytobinarysearchtree/RankingConvertSortedArrayToBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
+        <state relative-caret-position="0">
           <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -985,9 +946,97 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="323">
             <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/RankingMaximumDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_107_binarytreelevelordertraversalii/TestBinaryTreeLevelOrderTraversalII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="60" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/MyMaximumDepthOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="28" column="28" lean-forward="false" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="521">
+            <caret line="37" column="2" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/MyBalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1216">
+          <caret line="64" column="27" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#675#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_110_balancedbinarytree/TestBalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-487">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_110_balancedbinarytree/RankingBalancedBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
