@@ -8,7 +8,7 @@ import org.junit.Test;
  **/
 public class TestReverseInteger {
 
-    private int num1 = 123;
+    private int num1 = 1234;
     private int num2 = -123;
     private int num3 = 120;
     private int num4 = 1534236469;
