@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="afb32f5f-d017-4f39-91a2-7155de9eec3a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,14 +42,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TestPascalsTriangle.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.java">
+      <file leaf-file-name="TestTwoSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
-              <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,16 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/RankingMergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_088_mergesortedarray/TestMergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_088_mergesortedarray/MyMergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/MySameTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/RankingSameTree.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_100_sametree/TestSameTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_101_symmetrictree/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_101_symmetrictree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_101_symmetrictree/MySymmetricTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_101_symmetrictree/RankngSymmetricTree.java" />
@@ -135,7 +131,17 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/MyPascalsTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/RankingPascalsTriangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_119_pascalstriangleii/README.md" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_119_pascalstriangleii/MyPascalsTriangleII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_119_pascalstriangleii/RankingPascalsTriangleII.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_119_pascalstriangleii/TestPascalsTriangleII.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java" />
       </list>
     </option>
   </component>
@@ -145,9 +151,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1116" />
-    <option name="y" value="241" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="472" />
+    <option name="y" value="3" />
     <option name="width" value="902" />
     <option name="height" value="685" />
   </component>
@@ -169,6 +175,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,6 +214,24 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_twosum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_119_pascalstriangleii" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -230,7 +256,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_118_pascalstriangle" type="462c0819:PsiDirectoryNode" />
+              <item name="_001_twosum" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -240,10 +266,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,11 +289,11 @@
       <recent name="cn.javon.leetcode.easy._107_binarytreelevelordertraversalii" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_119_pascalstriangleii" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_118_pascalstriangle" />
       <recent name="D:\code\idea\LeetCode\src\test\java\cn\javon\leetcode\easy" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_112_pathsum" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_111_minimumdepthofbinarytree" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_110_balancedbinarytree" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,20 +308,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestPascalsTriangle.testMyPascalsTriangle">
-    <configuration name="TestBalancedBinaryTree.testMyBalancedBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.TestPascalsTriangleII.testRankingPascalsTriangleII">
+    <configuration name="TestPascalsTriangleII.testMyPascalsTriangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._110_balancedbinarytree.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._119_pascalstriangleii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._110_balancedbinarytree.TestBalancedBinaryTree" />
-      <option name="METHOD_NAME" value="testMyBalancedBinaryTree" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._119_pascalstriangleii" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._119_pascalstriangleii.TestPascalsTriangleII" />
+      <option name="METHOD_NAME" value="testMyPascalsTriangle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -310,44 +334,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestMinimumDepthofBinaryTree.testMyMinimumDepthofBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPascalsTriangleII.testRankingPascalsTriangleII" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._111_minimumdepthofbinarytree.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._119_pascalstriangleii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._111_minimumdepthofbinarytree" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._111_minimumdepthofbinarytree.TestMinimumDepthofBinaryTree" />
-      <option name="METHOD_NAME" value="testMyMinimumDepthofBinaryTree" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TestMinimumDepthofBinaryTree.testRankingMinimumDepthofBinaryTree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._111_minimumdepthofbinarytree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._111_minimumdepthofbinarytree" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._111_minimumdepthofbinarytree.TestMinimumDepthofBinaryTree" />
-      <option name="METHOD_NAME" value="testRankingMinimumDepthofBinaryTree" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._119_pascalstriangleii" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._119_pascalstriangleii.TestPascalsTriangleII" />
+      <option name="METHOD_NAME" value="testRankingPascalsTriangleII" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -373,6 +372,31 @@
       <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._118_pascalstriangle" />
       <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._118_pascalstriangle.TestPascalsTriangle" />
       <option name="METHOD_NAME" value="testMyPascalsTriangle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestPascalsTriangle.testRankingPascalsTriangle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._118_pascalstriangle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._118_pascalstriangle" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._118_pascalstriangle.TestPascalsTriangle" />
+      <option name="METHOD_NAME" value="testRankingPascalsTriangle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -492,19 +516,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree.testMyBalancedBinaryTree" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestMinimumDepthofBinaryTree.testMyMinimumDepthofBinaryTree" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestMinimumDepthofBinaryTree.testRankingMinimumDepthofBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPathSum.testMyPathSum" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangle.testMyPascalsTriangle" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestPathSum.testMyPathSum" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangle.testMyPascalsTriangle" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangle.testRankingPascalsTriangle" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangleII.testMyPascalsTriangle" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangleII.testRankingPascalsTriangleII" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangle.testMyPascalsTriangle" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPathSum.testMyPathSum" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestMinimumDepthofBinaryTree.testRankingMinimumDepthofBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestMinimumDepthofBinaryTree.testMyMinimumDepthofBinaryTree" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestBalancedBinaryTree.testMyBalancedBinaryTree" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangleII.testRankingPascalsTriangleII" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangleII.testMyPascalsTriangle" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangle.testMyPascalsTriangle" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestPascalsTriangle.testRankingPascalsTriangle" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestPathSum.testMyPathSum" />
       </list>
     </recent_temporary>
   </component>
@@ -554,30 +578,17 @@
       <workItem from="1519277159682" duration="6416000" />
       <workItem from="1519389373685" duration="3638000" />
       <workItem from="1519524297696" duration="6059000" />
+      <workItem from="1519607945707" duration="2128000" />
+      <workItem from="1519620610414" duration="4101000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 10h 19m 14s.xml">
-      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
+    <history-entry file="TestPascalsTriangleII_testMyPascalsTriangle - 2018.02.26 at 09h 38m 11s.xml">
+      <configuration name="TestPascalsTriangleII.testMyPascalsTriangle" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 10h 48m 04s.xml">
-      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 10h 48m 35s.xml">
-      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 10h 48m 41s.xml">
-      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 10h 49m 08s.xml">
-      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 11h 36m 56s.xml">
-      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 11h 37m 15s.xml">
-      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
+    <history-entry file="TestPascalsTriangleII_testRankingPascalsTriangleII - 2018.02.26 at 09h 44m 42s.xml">
+      <configuration name="TestPascalsTriangleII.testRankingPascalsTriangleII" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 11h 42m 56s.xml">
       <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
@@ -588,42 +599,58 @@
     <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.25 at 11h 43m 18s.xml">
       <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestPascalsTriangle_testMyPascalsTriangle - 2018.02.26 at 09h 30m 41s.xml">
+      <configuration name="TestPascalsTriangle.testMyPascalsTriangle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPascalsTriangle_testRankingPascalsTriangle - 2018.02.26 at 09h 28m 50s.xml">
+      <configuration name="TestPascalsTriangle.testRankingPascalsTriangle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPascalsTriangle_testRankingPascalsTriangle - 2018.02.26 at 09h 29m 44s.xml">
+      <configuration name="TestPascalsTriangle.testRankingPascalsTriangle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPascalsTriangle_testRankingPascalsTriangle - 2018.02.26 at 09h 30m 15s.xml">
+      <configuration name="TestPascalsTriangle.testRankingPascalsTriangle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPascalsTriangle_testRankingPascalsTriangle - 2018.02.26 at 09h 30m 29s.xml">
+      <configuration name="TestPascalsTriangle.testRankingPascalsTriangle" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="163376000" />
+    <option name="totallyTimeSpent" value="169605000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.502455" sideWeight="0.5151286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28618422" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4942717" sideWeight="0.48487142" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39583334" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25567323" sideWeight="0.4942717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27987897" sideWeight="0.5057283" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5081967" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.507365" sideWeight="0.49092284" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32405892" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -673,85 +700,17 @@
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/MyPascalsTriangle.java</url>
-          <line>17</line>
+          <url>file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.java</url>
+          <line>23</line>
           <properties />
-          <option name="timeStamp" value="123" />
+          <option name="timeStamp" value="124" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="124" />
+      <option name="time" value="125" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="18" lean-forward="false" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/OfficialRemoveDuplicatesFromSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/RankingRemoveDuplicatesFromSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="521">
-            <caret line="70" column="2" lean-forward="false" selection-start-line="70" selection-start-column="2" selection-end-line="70" selection-end-column="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/MySameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/TestMaximumDepthOfBinaryTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/MyMaximumDepthOfBinaryTree.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_104_maximumdepthofbinarytree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_100_sametree/RankingSameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_101_symmetrictree/RankngSymmetricTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_107_binarytreelevelordertraversalii/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -855,7 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -863,10 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <element signature="e#178#179#0" expanded="false" />
-            <element signature="e#231#232#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,7 +829,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -885,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -903,7 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -911,9 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -921,7 +869,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -929,10 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
           <caret line="41" column="9" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="41" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#675#685#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -947,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-481">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="21" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -963,7 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-113">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -971,7 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="70" lean-forward="false" selection-start-line="16" selection-start-column="70" selection-end-line="16" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -979,7 +918,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-681">
           <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,9 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="989">
           <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1005,7 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1019,62 +952,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/software/Java/jdk1.7.0_17/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="114" column="11" lean-forward="false" selection-start-line="114" selection-start-column="11" selection-end-line="114" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/MyPascalsTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#246#261#0" expanded="true" />
-            <element signature="e#357#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/RankingPascalsTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="51" column="7" lean-forward="true" selection-start-line="35" selection-start-column="6" selection-end-line="51" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/software/Java/jdk1.7.0_17/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="667">
             <caret line="29" column="3" lean-forward="false" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/RankingPascalsTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="44" lean-forward="false" selection-start-line="23" selection-start-column="41" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_119_pascalstriangleii/RankingPascalsTriangleII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_119_pascalstriangleii/MyPascalsTriangleII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="32" column="35" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_118_pascalstriangle/MyPascalsTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_119_pascalstriangleii/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1026">
+            <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_119_pascalstriangleii/TestPascalsTriangleII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_118_pascalstriangle/TestPascalsTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        <state relative-caret-position="240">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="51" lean-forward="false" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+          <folding />
         </state>
       </provider>
     </entry>

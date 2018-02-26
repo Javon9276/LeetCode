@@ -8,7 +8,7 @@ import org.junit.Test;
  **/
 public class TestTwoSum {
 
-    private int[] nums = new int[]{2, 7, 11, 15};
+    private int[] nums = new int[]{2, 7, 11, 15, 20};
     private int target = 9;
 
     @Test

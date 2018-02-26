@@ -6,7 +6,7 @@ import java.util.List;
 
 public class TestPascalsTriangle {
 
-    int numRows = 5;
+    int numRows = 10;
 
     @Test
     public void testMyPascalsTriangle() {
@@ -23,8 +23,7 @@ public class TestPascalsTriangle {
         RankingPascalsTriangle rankingPascalsTriangle = new RankingPascalsTriangle();
         List<List<Integer>> lists = rankingPascalsTriangle.generate(numRows);
         for (int i = 0; i < lists.size(); i++) {
-            List<Integer> list = lists.get(i);
-            System.out.println(list);
+            System.out.println( lists.get(i));
         }
     }
 

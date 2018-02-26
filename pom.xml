@@ -6,7 +6,7 @@
 
     <groupId>cn.javon.leetcode</groupId>
     <artifactId>LeetCode</artifactId>
-    <version>1.0</version>
+    <version>1.0.RELEASE</version>
 
     <properties>
         <junit.version>4.12</junit.version>
