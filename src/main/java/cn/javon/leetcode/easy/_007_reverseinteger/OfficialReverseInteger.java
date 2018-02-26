@@ -1,6 +1,6 @@
 package cn.javon.leetcode.easy._007_reverseinteger;
 
-public class OfficialReverseInteger {
+class OfficialReverseInteger {
 
     public int reverse(int x) {
         long result = 0;
@@ -12,4 +12,5 @@ public class OfficialReverseInteger {
         }
         return (int) result;
     }
+
 }

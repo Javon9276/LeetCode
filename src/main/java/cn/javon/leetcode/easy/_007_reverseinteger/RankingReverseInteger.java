@@ -1,6 +1,6 @@
 package cn.javon.leetcode.easy._007_reverseinteger;
 
-public class RankingReverseInteger {
+class RankingReverseInteger {
 
     public int reverse(int x) {
         int output = 0;
