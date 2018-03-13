@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64c7f77f-72ec-4b07-8814-68b121e17f9b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_167_twosumii/TestTwoSumII.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_167_twosumii/TestTwoSumII.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_168_excelsheetcolumntitle/TestExcelSheetColumnTitle.class" afterPath="$PROJECT_DIR$/target/test-classes/cn/javon/leetcode/easy/_168_excelsheetcolumntitle/TestExcelSheetColumnTitle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,9 +37,11 @@
       <find>*</find>
       <find>ListNode</find>
       <find>minStack.</find>
+      <find>，</find>
     </findStrings>
     <replaceStrings>
       <replace>myMinStack.</replace>
+      <replace>,</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy</dir>
@@ -55,11 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_121_besttimetobuyandsellstock/OfficialBestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_121_besttimetobuyandsellstock/MyBestTimeToBuyAndSellStock.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_121_besttimetobuyandsellstock/RankingBestTimeToBuyAndSellStock.java" />
@@ -106,6 +104,11 @@
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_168_excelsheetcolumntitle/TestExcelSheetColumnTitle.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_168_excelsheetcolumntitle/RankingExcelSheetColumnTitle.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_168_excelsheetcolumntitle/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_169_majorityelement/MyMajorityElement.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_169_majorityelement/MyMajorityElement.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_169_majorityelement/TestMajorityElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_169_majorityelement/OfficialMajorityElement.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_169_majorityelement/README.md" />
       </list>
     </option>
   </component>
@@ -236,8 +239,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,59 +279,35 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_168_excelsheetcolumntitle" type="462c0819:PsiDirectoryNode" />
+              <item name="_141_linkedlistcycle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_169_majorityelement" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_167_twosumii" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_168_excelsheetcolumntitle" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../company/IEM" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -341,11 +318,11 @@
       <recent name="cn.javon.leetcode.easy._141_linkedlistcycle" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_169_majorityelement" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_168_excelsheetcolumntitle" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_167_twosumii" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_160_intersectionoftwolinkedlists" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_155_minstack" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_141_linkedlistcycle" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -360,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle">
+  <component name="RunManager" selected="JUnit.TestMajorityElement.testOfficialMajorityElement">
     <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -374,31 +351,6 @@
       <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._168_excelsheetcolumntitle" />
       <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._168_excelsheetcolumntitle.TestExcelSheetColumnTitle" />
       <option name="METHOD_NAME" value="testMyExcelSheetColumnTitle" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TestIntersectionOfTwoLinkedLists.testMyIntersectionOfTwoLinkedLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._160_intersectionoftwolinkedlists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._160_intersectionoftwolinkedlists" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._160_intersectionoftwolinkedlists.TestIntersectionOfTwoLinkedLists" />
-      <option name="METHOD_NAME" value="testMyIntersectionOfTwoLinkedLists" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -436,19 +388,44 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestMinStack.testRankingMinStack2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestMajorityElement.testMyMajorityElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._155_minstack.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._169_majorityelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._155_minstack" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._155_minstack.TestMinStack" />
-      <option name="METHOD_NAME" value="testRankingMinStack2" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._169_majorityelement" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._169_majorityelement.TestMajorityElement" />
+      <option name="METHOD_NAME" value="testMyMajorityElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestMajorityElement.testOfficialMajorityElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._169_majorityelement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._169_majorityelement" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._169_majorityelement.TestMajorityElement" />
+      <option name="METHOD_NAME" value="testOfficialMajorityElement" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -568,19 +545,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestMinStack.testRankingMinStack2" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestIntersectionOfTwoLinkedLists.testMyIntersectionOfTwoLinkedLists" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestIntersectionOfTwoLinkedLists.testRankingIntersectionOfTwoLinkedLists" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestTwoSumII.testMyTwoSumII" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestIntersectionOfTwoLinkedLists.testRankingIntersectionOfTwoLinkedLists" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestTwoSumII.testMyTwoSumII" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testMyMajorityElement" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testOfficialMajorityElement" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestTwoSumII.testMyTwoSumII" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestIntersectionOfTwoLinkedLists.testRankingIntersectionOfTwoLinkedLists" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestIntersectionOfTwoLinkedLists.testMyIntersectionOfTwoLinkedLists" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestMinStack.testRankingMinStack2" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testOfficialMajorityElement" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testMyMajorityElement" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestTwoSumII.testMyTwoSumII" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestIntersectionOfTwoLinkedLists.testRankingIntersectionOfTwoLinkedLists" />
       </list>
     </recent_temporary>
   </component>
@@ -612,73 +589,75 @@
       <workItem from="1520819020080" duration="4490000" />
       <workItem from="1520824347426" duration="2471000" />
       <workItem from="1520831226858" duration="882000" />
+      <workItem from="1520904274377" duration="1526000" />
+      <workItem from="1520905874191" duration="1523000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 36m 37s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testMyMajorityElement - 2018.03.13 at 09h 55m 16s.xml">
+      <configuration name="TestMajorityElement.testMyMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 37m 17s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testMyMajorityElement - 2018.03.13 at 09h 56m 25s.xml">
+      <configuration name="TestMajorityElement.testMyMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 37m 29s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testMyMajorityElement - 2018.03.13 at 10h 05m 29s.xml">
+      <configuration name="TestMajorityElement.testMyMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 37m 39s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testMyMajorityElement - 2018.03.13 at 10h 05m 46s.xml">
+      <configuration name="TestMajorityElement.testMyMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 37m 47s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testMyMajorityElement - 2018.03.13 at 10h 06m 21s.xml">
+      <configuration name="TestMajorityElement.testMyMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 39m 01s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testMyMajorityElement - 2018.03.13 at 10h 11m 05s.xml">
+      <configuration name="TestMajorityElement.testMyMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 39m 14s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testMyMajorityElement - 2018.03.13 at 10h 11m 41s.xml">
+      <configuration name="TestMajorityElement.testMyMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 39m 48s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testOfficialMajorityElement - 2018.03.13 at 10h 11m 32s.xml">
+      <configuration name="TestMajorityElement.testOfficialMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 40m 16s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testOfficialMajorityElement - 2018.03.13 at 10h 11m 58s.xml">
+      <configuration name="TestMajorityElement.testOfficialMajorityElement" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestExcelSheetColumnTitle_testMyExcelSheetColumnTitle - 2018.03.12 at 11h 40m 22s.xml">
-      <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" configurationId="JUnit" />
+    <history-entry file="TestMajorityElement_testOfficialMajorityElement - 2018.03.13 at 10h 12m 28s.xml">
+      <configuration name="TestMajorityElement.testOfficialMajorityElement" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44452000" />
+    <option name="totallyTimeSpent" value="47501000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31587562" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31587562" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24130106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24508321" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.507365" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -712,53 +691,11 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="24" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_125_validpalindrome/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="736">
-            <caret line="66" column="12" lean-forward="false" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_136_singlenumber/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="386">
-            <caret line="39" column="48" lean-forward="false" selection-start-line="39" selection-start-column="48" selection-end-line="39" selection-end-column="48" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_141_linkedlistcycle/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/MyRemoveDuplicatesFromSortedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_021_mergetwosortedlists/MyMergeTwoSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1099,7 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1107,7 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1115,7 +1050,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1124,9 +1058,61 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="284">
             <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_169_majorityelement/TestMajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="116" column="17" lean-forward="false" selection-start-line="116" selection-start-column="17" selection-end-line="116" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_169_majorityelement/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="323">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_169_majorityelement/OfficialMajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_169_majorityelement/MyMajorityElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#362#380#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
