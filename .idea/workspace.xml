@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64c7f77f-72ec-4b07-8814-68b121e17f9b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,28 +22,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyTwoSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java">
+      <file leaf-file-name="MyReverseInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OfficialTwoSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java">
+      <file leaf-file-name="OfficialReverseInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="38">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RankingTwoSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java">
+      <file leaf-file-name="RankingReverseInteger.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -53,11 +53,11 @@
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1022">
-                <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+              <first_editor relative-caret-position="-1117">
+                <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -103,10 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_141_linkedlistcycle/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_038_countandsay/MyCountAndSay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/RankingMinStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/RankingMinStack2.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_155_minstack/TestMinStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/RankingMinStack1.java" />
@@ -154,6 +150,10 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md" />
       </list>
     </option>
   </component>
@@ -327,6 +327,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="_001_twosum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_007_reverseinteger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -668,7 +677,7 @@
       <workItem from="1521509469742" duration="1204000" />
       <workItem from="1521536470481" duration="192000" />
       <workItem from="1521595347864" duration="1287000" />
-      <workItem from="1521687852308" duration="555000" />
+      <workItem from="1521687852308" duration="645000" />
     </task>
     <servers />
   </component>
@@ -705,7 +714,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63067000" />
+    <option name="totallyTimeSpent" value="63157000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -775,37 +784,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-205">
-            <caret line="122" column="0" lean-forward="true" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_141_linkedlistcycle/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/MyMinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="18" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/RankingMinStack1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="32" column="25" lean-forward="false" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/MyIntersectionOfTwoLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -1156,6 +1134,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1022">
+            <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1172,7 +1169,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
@@ -1180,11 +1185,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1022">
-            <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+          <first_editor relative-caret-position="-1117">
+            <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />

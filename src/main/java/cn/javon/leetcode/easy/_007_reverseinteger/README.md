@@ -1,4 +1,4 @@
-# Reverse Integer
+# 7. Reverse Integer
 Given a 32-bit signed integer, reverse digits of an integer.
 
 Example 1:
@@ -22,7 +22,7 @@ Note:
 
 Assume we are dealing with an environment which could only hold integers within the 32-bit signed integer range. For the purpose of this problem, assume that your function returns 0 when the reversed integer overflows.
 
-# 颠倒整数
+# 7. 颠倒整数
 给定一个范围为 32 位 int 的整数，将其颠倒。
 
 例子 1:
