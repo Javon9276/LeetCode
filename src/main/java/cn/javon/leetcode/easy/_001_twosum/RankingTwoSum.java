@@ -1,6 +1,6 @@
 package cn.javon.leetcode.easy._001_twosum;
 
-class RankingTwoSum {
+public class RankingTwoSum {
 
     int[] twoSum(int[] nums, int target) {
         int[] map = new int[20050];
