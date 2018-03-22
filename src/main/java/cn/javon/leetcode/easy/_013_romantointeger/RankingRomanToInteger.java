@@ -2,15 +2,6 @@ package cn.javon.leetcode.easy._013_romantointeger;
 
 public class RankingRomanToInteger {
 
-    /**
-     * 思路：
-     * 3. 小的数字（限于 I、X 和 C）在大的数字的左边、所表示的数等于大数减小数得到的数、如：Ⅳ=4、Ⅸ=9；
-     *    1. V 和 X 左边的小数字只能用I。
-     *    2. L 和 C 左边的小数字只能用X。
-     *    3. D 和 M 左边的小数字只能用C 。
-     * 列出这个逻辑组合是 IV,IX,XL,XC,CD,CM
-     * 因此全部结合
-     */
     public int romanToInt(String s) {
         int result = 0;
         if (s.indexOf("IV") > -1) {
