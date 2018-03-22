@@ -19,20 +19,17 @@ public class TestPalindromeNumber {
     @Test
     public void testMyPalindromeNumber() {
         MyPalindromeNumber myReverseInteger = new MyPalindromeNumber();
-        System.out.println(num);
         System.out.println(myReverseInteger.isPalindrome(num));
     }
 
     @Test
     public void testOfficialPalindromeNumber() {
         OfficialPalindromeNumber officialPalindromeNumber = new OfficialPalindromeNumber();
-        System.out.println(num);
         System.out.println(officialPalindromeNumber.isPalindrome(num));
     }
     @Test
     public void testRankingPalindromeNumber() {
         RankingPalindromeNumber rankingPalindromeNumber = new RankingPalindromeNumber();
-        System.out.println(num);
         System.out.println(rankingPalindromeNumber.isPalindrome(num));
     }
 }

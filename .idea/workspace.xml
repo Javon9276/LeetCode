@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64c7f77f-72ec-4b07-8814-68b121e17f9b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/MyPalindromeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/MyPalindromeNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/README.md" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java" afterPath="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java" afterPath="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,42 +23,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyReverseInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/MyReverseInteger.java">
+      <file leaf-file-name="TestPalindromeNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="82">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OfficialReverseInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java">
+      <file leaf-file-name="RankingPalindromeNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RankingReverseInteger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="76">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1117">
-                <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -103,11 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/RankingMinStack2.java" />
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_155_minstack/TestMinStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/RankingMinStack1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/MyMinStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_155_minstack/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/ListNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/RankingIntersectionOfTwoLinkedLists.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/MyIntersectionOfTwoLinkedLists.java" />
@@ -154,6 +140,11 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/OfficialReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/RankingReverseInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/MyPalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/README.md" />
       </list>
     </option>
   </component>
@@ -326,15 +317,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_001_twosum" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
               <item name="_007_reverseinteger" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -366,6 +348,15 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+              <item name="_009_palindromenumber" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -413,7 +404,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes">
+  <component name="RunManager" selected="JUnit.TestPalindromeNumber.testRankingPalindromeNumber">
     <configuration name="TestExcelSheetColumnNumber.testMyExcelSheetColumnNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -427,31 +418,6 @@
       <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._171_excelsheetcolumnnumber" />
       <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._171_excelsheetcolumnnumber.TestExcelSheetColumnNumber" />
       <option name="METHOD_NAME" value="testMyExcelSheetColumnNumber" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._168_excelsheetcolumntitle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._168_excelsheetcolumntitle" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._168_excelsheetcolumntitle.TestExcelSheetColumnTitle" />
-      <option name="METHOD_NAME" value="testMyExcelSheetColumnTitle" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -489,19 +455,19 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestMajorityElement.testMyMajorityElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPalindromeNumber.testMyPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._169_majorityelement.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._009_palindromenumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._169_majorityelement" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._169_majorityelement.TestMajorityElement" />
-      <option name="METHOD_NAME" value="testMyMajorityElement" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._009_palindromenumber" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._009_palindromenumber.TestPalindromeNumber" />
+      <option name="METHOD_NAME" value="testMyPalindromeNumber" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -514,19 +480,44 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestMajorityElement.testOfficialMajorityElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestPalindromeNumber.testOfficialPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._169_majorityelement.*" />
+          <option name="PATTERN" value="cn.javon.leetcode.easy._009_palindromenumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="LeetCode" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._169_majorityelement" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._169_majorityelement.TestMajorityElement" />
-      <option name="METHOD_NAME" value="testOfficialMajorityElement" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._009_palindromenumber" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._009_palindromenumber.TestPalindromeNumber" />
+      <option name="METHOD_NAME" value="testOfficialPalindromeNumber" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestPalindromeNumber.testRankingPalindromeNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._009_palindromenumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._009_palindromenumber" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._009_palindromenumber.TestPalindromeNumber" />
+      <option name="METHOD_NAME" value="testRankingPalindromeNumber" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -621,19 +612,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testMyMajorityElement" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testOfficialMajorityElement" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnNumber.testMyExcelSheetColumnNumber" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnNumber.testMyExcelSheetColumnNumber" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testMyPalindromeNumber" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testOfficialPalindromeNumber" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testRankingPalindromeNumber" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnNumber.testMyExcelSheetColumnNumber" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testOfficialMajorityElement" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestMajorityElement.testMyMajorityElement" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnTitle.testMyExcelSheetColumnTitle" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testRankingPalindromeNumber" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testOfficialPalindromeNumber" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestPalindromeNumber.testMyPalindromeNumber" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestExcelSheetColumnNumber.testMyExcelSheetColumnNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -677,26 +668,11 @@
       <workItem from="1521509469742" duration="1204000" />
       <workItem from="1521536470481" duration="192000" />
       <workItem from="1521595347864" duration="1287000" />
-      <workItem from="1521687852308" duration="645000" />
+      <workItem from="1521687852308" duration="1954000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.19 at 10h 05m 25s.xml">
-      <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.19 at 10h 06m 07s.xml">
-      <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.19 at 10h 09m 05s.xml">
-      <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.19 at 10h 15m 23s.xml">
-      <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.19 at 10h 16m 13s.xml">
-      <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.19 at 10h 16m 52s.xml">
       <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
     </history-entry>
@@ -712,9 +688,24 @@
     <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.19 at 10h 23m 14s.xml">
       <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestFactorialTrailingZeroes_testMyFactorialTrailingZeroes - 2018.03.22 at 11h 18m 11s.xml">
+      <configuration name="TestFactorialTrailingZeroes.testMyFactorialTrailingZeroes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeNumber_testMyPalindromeNumber - 2018.03.22 at 11h 18m 35s.xml">
+      <configuration name="TestPalindromeNumber.testMyPalindromeNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeNumber_testOfficialPalindromeNumber - 2018.03.22 at 11h 23m 08s.xml">
+      <configuration name="TestPalindromeNumber.testOfficialPalindromeNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeNumber_testRankingPalindromeNumber - 2018.03.22 at 11h 32m 35s.xml">
+      <configuration name="TestPalindromeNumber.testRankingPalindromeNumber" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPalindromeNumber_testRankingPalindromeNumber - 2018.03.22 at 11h 34m 02s.xml">
+      <configuration name="TestPalindromeNumber.testRankingPalindromeNumber" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63157000" />
+    <option name="totallyTimeSpent" value="64466000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -722,6 +713,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -745,7 +737,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -778,33 +769,30 @@
           <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/MyPalindromeNumber.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="36" />
+      <option name="time" value="40" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/MyIntersectionOfTwoLinkedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="5" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/TestIntersectionOfTwoLinkedLists.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_160_intersectionoftwolinkedlists/RankingIntersectionOfTwoLinkedLists.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -1099,41 +1087,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/MyPalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1142,30 +1095,6 @@
             <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1193,11 +1122,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/MyTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/OfficialTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="7" lean-forward="false" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_001_twosum/RankingTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_001_twosum/TestTwoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_007_reverseinteger/TestReverseInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_007_reverseinteger/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-1117">
             <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/MyPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/RankingPalindromeNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="22" />
             <folding />
           </first_editor>
           <second_editor />
