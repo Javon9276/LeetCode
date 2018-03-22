@@ -27,4 +27,5 @@ public class OfficialLongestCommonPrefix {
                 return false;
         return true;
     }
+
 }

@@ -2,7 +2,7 @@ package cn.javon.leetcode.easy._014_longestcommonprefix;
 
 /**
  * @author Javon
- * @since 2018-01-22
+ * @since 2018-01-23
  **/
 public class MyLongestCommonPrefix {
 
