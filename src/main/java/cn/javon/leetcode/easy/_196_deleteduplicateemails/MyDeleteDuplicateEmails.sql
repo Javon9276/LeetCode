@@ -1,0 +1,5 @@
+DELETE FROM Person WHERE id IN (
+	SELECT a.id FROM ( -- 避免出现又查询又删除的问题
+	SELECT id FROM Person WHERE email IN ( SELECT EMAIL FROM Person GROUP BY EMAIL HAVING COUNT(EMAIL) > 1 )
+	AND id NOT IN ( SELECT min(id) FROM Person GROUP BY EMAIL HAVING COUNT(EMAIL) > 1 )
+) a )
