@@ -18,7 +18,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,11 +33,11 @@
       <find>Test</find>
       <find>listNode</find>
       <find>*</find>
-      <find>ListNode</find>
       <find>minStack.</find>
       <find>，</find>
       <find>0011100101111000001010010100000</find>
       <find>10100101000001111010011100</find>
+      <find>ListNode</find>
     </findStrings>
     <replaceStrings>
       <replace>myMinStack.</replace>
@@ -58,10 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_009_palindromenumber/TestPalindromeNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/OfficialPalindromeNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_009_palindromenumber/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/RankingRomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_013_romantointeger/MyRomanToInteger.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java" />
@@ -109,6 +105,10 @@
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_202_happynumber/RankingHappyNumber.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_202_happynumber/TestHappyNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_202_happynumber/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/TestRemoveLinkedListElements.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/MyRemoveLinkedListElements.java" />
       </list>
     </option>
   </component>
@@ -118,11 +118,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="593" />
-    <option name="y" value="19" />
-    <option name="width" value="683" />
-    <option name="height" value="728" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="41" />
+    <option name="y" value="372" />
+    <option name="width" value="722" />
+    <option name="height" value="586" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -239,7 +239,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -281,16 +281,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_176_secondhighestsalary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_202_happynumber" type="462c0819:PsiDirectoryNode" />
+              <item name="_203_removelinkedlistelements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -320,7 +311,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_202_happynumber" type="462c0819:PsiDirectoryNode" />
+              <item name="_203_removelinkedlistelements" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -331,29 +322,30 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../company/iem" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.javon.leetcode.easy._203_removelinkedlistelements" />
       <recent name="cn.javon.leetcode.easy._160_intersectionoftwolinkedlists" />
       <recent name="cn.javon.leetcode.easy._141_linkedlistcycle" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_203_removelinkedlistelements" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_202_happynumber" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_198_houserobber" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_197_risingtemperature" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_196_deleteduplicateemails" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_195_tenthline" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -368,7 +360,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestHappyNumber.testMyHappyNumber">
+  <component name="RunManager" selected="JUnit.TestRemoveLinkedListElements.testMyRemoveLinkedListElements">
     <configuration name="TestHappyNumber.testMyHappyNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -419,31 +411,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestHouseRobber.testMyHouseRobber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._198_houserobber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._198_houserobber" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._198_houserobber.TestHouseRobber" />
-      <option name="METHOD_NAME" value="testMyHouseRobber" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="TestHouseRobber.testRankingHouseRobber1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -482,6 +449,31 @@
       <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._198_houserobber" />
       <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._198_houserobber.TestHouseRobber" />
       <option name="METHOD_NAME" value="testRankingHouseRobber2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._203_removelinkedlistelements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._203_removelinkedlistelements" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._203_removelinkedlistelements.TestRemoveLinkedListElements" />
+      <option name="METHOD_NAME" value="testMyRemoveLinkedListElements" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -576,19 +568,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testMyHouseRobber" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber2" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber1" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testMyHappyNumber" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testRankingHappyNumber" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber2" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber1" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testMyHappyNumber" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testRankingHappyNumber" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestRemoveLinkedListElements.testMyRemoveLinkedListElements" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testMyHappyNumber" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testRankingHappyNumber" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testMyHouseRobber" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestRemoveLinkedListElements.testMyRemoveLinkedListElements" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testMyHappyNumber" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testRankingHappyNumber" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber1" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestHouseRobber.testRankingHouseRobber2" />
       </list>
     </recent_temporary>
   </component>
@@ -640,47 +632,48 @@
       <workItem from="1522200743706" duration="3917000" />
       <workItem from="1522288201512" duration="1935000" />
       <workItem from="1522373091718" duration="6363000" />
-      <workItem from="1522633330668" duration="1802000" />
+      <workItem from="1522633330668" duration="2400000" />
+      <workItem from="1522719331251" duration="4545000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 09h 56m 18s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 26m 56s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 09h 57m 15s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 28m 40s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 09h 58m 09s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 29m 25s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 10h 02m 11s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 46m 30s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 10h 08m 27s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 46m 46s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 10h 09m 52s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 47m 02s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 10h 10m 07s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 47m 32s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 10h 10m 23s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 47m 55s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testMyHappyNumber - 2018.04.02 at 10h 11m 03s.xml">
-      <configuration name="TestHappyNumber.testMyHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 48m 26s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestHappyNumber_testRankingHappyNumber - 2018.04.02 at 10h 08m 19s.xml">
-      <configuration name="TestHappyNumber.testRankingHappyNumber" configurationId="JUnit" />
+    <history-entry file="TestRemoveLinkedListElements_testMyRemoveLinkedListElements - 2018.04.03 at 10h 50m 38s.xml">
+      <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98250000" />
+    <option name="totallyTimeSpent" value="103393000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -691,26 +684,26 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44026187" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49590835" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33878887" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20347957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28971255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44026187" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43698853" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -812,70 +805,18 @@
           <properties />
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/MyRemoveLinkedListElements.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="62" />
+      <option name="time" value="68" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/MyLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/OfficialLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_014_longestcommonprefix/TestLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/RankingLongestCommonPrefix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_014_longestcommonprefix/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_183_customerswhoneverorder/MyCustomersWhoNeverOrder.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="73" lean-forward="false" selection-start-line="0" selection-start-column="73" selection-end-line="0" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_183_customerswhoneverorder/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="403">
-            <caret line="64" column="3" lean-forward="false" selection-start-line="64" selection-start-column="3" selection-end-line="64" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1130,7 +1071,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1147,17 +1087,8 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="19" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_202_happynumber/TestHappyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1185,9 +1116,77 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="151">
             <caret line="48" column="20" lean-forward="false" selection-start-line="48" selection-start-column="20" selection-end-line="48" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_202_happynumber/TestHappyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_083_removeduplicatesfromsortedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="133">
+            <caret line="7" column="3" lean-forward="false" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/MyRemoveLinkedListElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_203_removelinkedlistelements/TestRemoveLinkedListElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
