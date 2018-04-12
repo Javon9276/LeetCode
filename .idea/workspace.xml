@@ -18,41 +18,7 @@
     </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_206_reverselinkedlist/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="26" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OfficialReverseLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_206_reverselinkedlist/OfficialReverseLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyReverseLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_206_reverselinkedlist/MyReverseLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -92,10 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_189_rotatearray/TestRotateArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_190_reversebits/MyReverseBits.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_190_reversebits/RankingReverseBits.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_190_reversebits/OfficialReverseBits.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_190_reversebits/OfficialReverseBits2.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_190_reversebits/OfficialReverseBits1.java" />
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_190_reversebits/TestReverseBits.java" />
@@ -143,6 +105,10 @@
         <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_206_reverselinkedlist/TestReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_206_reverselinkedlist/OfficialReverseLinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_206_reverselinkedlist/README.md" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_217_containsduplicate/MyContainsDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_217_containsduplicate/TestContainsDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_217_containsduplicate/RankingContainsDuplicate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_217_containsduplicate/README.md" />
       </list>
     </option>
   </component>
@@ -153,10 +119,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="440" />
-    <option name="y" value="91" />
-    <option name="width" value="722" />
-    <option name="height" value="598" />
+    <option name="x" value="-97" />
+    <option name="y" value="182" />
+    <option name="width" value="911" />
+    <option name="height" value="559" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -274,8 +240,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,25 +280,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_141_linkedlistcycle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_191_numberof1bits" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_206_reverselinkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="_217_containsduplicate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -364,16 +310,7 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_141_linkedlistcycle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="_206_reverselinkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="_217_containsduplicate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
@@ -383,14 +320,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../company/iem" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -404,11 +343,11 @@
       <recent name="cn.javon.leetcode.easy._160_intersectionoftwolinkedlists" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_217_containsduplicate" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_206_reverselinkedlist" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_205_isomorphicstrings" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_204_countprimes" />
       <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_203_removelinkedlistelements" />
-      <recent name="D:\code\idea\LeetCode\src\main\java\cn\javon\leetcode\easy\_202_happynumber" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -423,7 +362,57 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestReverseLinkedList.testMyReverseLinkedList">
+  <component name="RunManager" selected="JUnit.TestContainsDuplicate.testRankingContainsDuplicate">
+    <configuration name="TestContainsDuplicate.testMyContainsDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._217_containsduplicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._217_containsduplicate" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._217_containsduplicate.TestContainsDuplicate" />
+      <option name="METHOD_NAME" value="testMyContainsDuplicate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestContainsDuplicate.testRankingContainsDuplicate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.javon.leetcode.easy._217_containsduplicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="LeetCode" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._217_containsduplicate" />
+      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._217_containsduplicate.TestContainsDuplicate" />
+      <option name="METHOD_NAME" value="testRankingContainsDuplicate" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration name="TestCountPrimes.testMyCountPrimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -449,31 +438,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestHappyNumber.testMyHappyNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._202_happynumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._202_happynumber" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._202_happynumber.TestHappyNumber" />
-      <option name="METHOD_NAME" value="testMyHappyNumber" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="TestIsomorphicStrings.testMyIsomorphicStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -487,31 +451,6 @@
       <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._205_isomorphicstrings" />
       <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._205_isomorphicstrings.TestIsomorphicStrings" />
       <option name="METHOD_NAME" value="testMyIsomorphicStrings" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="TestRemoveLinkedListElements.testMyRemoveLinkedListElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="cn.javon.leetcode.easy._203_removelinkedlistelements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="LeetCode" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="cn.javon.leetcode.easy._203_removelinkedlistelements" />
-      <option name="MAIN_CLASS_NAME" value="cn.javon.leetcode.easy._203_removelinkedlistelements.TestRemoveLinkedListElements" />
-      <option name="METHOD_NAME" value="testMyRemoveLinkedListElements" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -631,19 +570,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testMyHappyNumber" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestRemoveLinkedListElements.testMyRemoveLinkedListElements" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestCountPrimes.testMyCountPrimes" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestIsomorphicStrings.testMyIsomorphicStrings" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestReverseLinkedList.testMyReverseLinkedList" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestCountPrimes.testMyCountPrimes" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestIsomorphicStrings.testMyIsomorphicStrings" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestReverseLinkedList.testMyReverseLinkedList" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestContainsDuplicate.testMyContainsDuplicate" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestContainsDuplicate.testRankingContainsDuplicate" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestReverseLinkedList.testMyReverseLinkedList" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestIsomorphicStrings.testMyIsomorphicStrings" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestCountPrimes.testMyCountPrimes" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestRemoveLinkedListElements.testMyRemoveLinkedListElements" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestHappyNumber.testMyHappyNumber" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestContainsDuplicate.testRankingContainsDuplicate" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestContainsDuplicate.testMyContainsDuplicate" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestReverseLinkedList.testMyReverseLinkedList" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestIsomorphicStrings.testMyIsomorphicStrings" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestCountPrimes.testMyCountPrimes" />
       </list>
     </recent_temporary>
   </component>
@@ -700,31 +639,29 @@
       <workItem from="1523158654855" duration="5494000" />
       <workItem from="1523238171384" duration="2023000" />
       <workItem from="1523249322843" duration="825000" />
-      <workItem from="1523328789413" duration="2998000" />
+      <workItem from="1523328789413" duration="3045000" />
+      <workItem from="1523516881757" duration="1845000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 15m 11s.xml">
-      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
+    <history-entry file="TestContainsDuplicate_testMyContainsDuplicate - 2018.04.12 at 15h 19m 25s.xml">
+      <configuration name="TestContainsDuplicate.testMyContainsDuplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 16m 04s.xml">
-      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
+    <history-entry file="TestContainsDuplicate_testMyContainsDuplicate - 2018.04.12 at 15h 20m 45s.xml">
+      <configuration name="TestContainsDuplicate.testMyContainsDuplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 16m 25s.xml">
-      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
+    <history-entry file="TestContainsDuplicate_testMyContainsDuplicate - 2018.04.12 at 15h 21m 04s.xml">
+      <configuration name="TestContainsDuplicate.testMyContainsDuplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 16m 47s.xml">
-      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
+    <history-entry file="TestContainsDuplicate_testMyContainsDuplicate - 2018.04.12 at 15h 26m 25s.xml">
+      <configuration name="TestContainsDuplicate.testMyContainsDuplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 16m 57s.xml">
-      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
+    <history-entry file="TestContainsDuplicate_testMyContainsDuplicate - 2018.04.12 at 15h 26m 37s.xml">
+      <configuration name="TestContainsDuplicate.testMyContainsDuplicate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 17m 28s.xml">
-      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 18m 12s.xml">
-      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
+    <history-entry file="TestContainsDuplicate_testRankingContainsDuplicate - 2018.04.12 at 15h 34m 27s.xml">
+      <configuration name="TestContainsDuplicate.testRankingContainsDuplicate" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 20m 05s.xml">
       <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
@@ -735,9 +672,12 @@
     <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.10 at 11h 26m 27s.xml">
       <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestReverseLinkedList_testMyReverseLinkedList - 2018.04.12 at 15h 19m 20s.xml">
+      <configuration name="TestReverseLinkedList.testMyReverseLinkedList" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114733000" />
+    <option name="totallyTimeSpent" value="116625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -750,7 +690,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -760,20 +699,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44026187" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39443535" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30181542" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30635402" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3535188" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43698853" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -883,34 +822,11 @@
           <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="71" />
+      <option name="time" value="72" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_191_numberof1bits/RankingNumberOf1Bits.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_191_numberof1bits/MyNumberOf1Bits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_190_reversebits/TestReverseBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_191_numberof1bits/OfficialNumberOf1Bits2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="11" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_191_numberof1bits/OfficialNumberOf1Bits1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1162,7 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="38" lean-forward="false" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,7 +1085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1187,7 +1100,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="25" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1221,7 +1133,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1230,7 +1141,7 @@
         <state relative-caret-position="494">
           <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1239,14 +1150,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_206_reverselinkedlist/OfficialReverseLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="5" />
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -1264,6 +1174,44 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="2" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_217_containsduplicate/MyContainsDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#329#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/cn/javon/leetcode/easy/_217_containsduplicate/TestContainsDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_217_containsduplicate/RankingContainsDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="28" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/javon/leetcode/easy/_217_containsduplicate/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="118">
+            <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
             <folding />
           </first_editor>
           <second_editor />
